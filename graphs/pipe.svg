@@ -1,0 +1,2110 @@
+<svg width="6317pt" height="525pt"
+ viewBox="0.00 0.00 6497.56 540.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(.9722 .9722) rotate(0) translate(36 504)">
+<title>sampleDigraph</title>
+<polygon fill="#2e3e56" stroke="transparent" points="-36,36 -36,-504 6461.5554,-504 6461.5554,36 -36,36"/>
+<!-- JsonOptions -->
+<g id="node1" class="node">
+<title>JsonOptions</title>
+<g id="a_node1"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="4719.1658,-36 4633.722,-36 4633.722,0 4719.1658,0 4719.1658,-36"/>
+<text text-anchor="middle" x="4676.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">JsonOptions</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser -->
+<g id="node2" class="node">
+<title>JsonSerDeser</title>
+<g id="a_node2"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3268.6321,-252 3176.2557,-252 3176.2557,-216 3268.6321,-216 3268.6321,-252"/>
+<text text-anchor="middle" x="3222.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">JsonSerDeser</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;JsonSerDeser -->
+<g id="edge7" class="edge">
+<title>JsonSerDeser&#45;&gt;JsonSerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3268.8238,-220.8634C3279.0732,-222.0977 3286.5379,-226.4766 3286.5379,-234 3286.5379,-238.8197 3283.4744,-242.3489 3278.5778,-244.5875"/>
+<polygon fill="none" stroke="#ffffff" points="3277.6138,-241.2218 3268.8238,-247.1366 3279.3838,-247.9943 3277.6138,-241.2218"/>
+</g>
+<!-- AbstractContent -->
+<g id="node3" class="node">
+<title>AbstractContent</title>
+<g id="a_node3"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3127.1988,-324 3019.689,-324 3019.689,-288 3127.1988,-288 3127.1988,-324"/>
+<text text-anchor="middle" x="3073.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">AbstractContent</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;AbstractContent -->
+<g id="edge1" class="edge">
+<title>JsonSerDeser&#45;&gt;AbstractContent</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3184.8449,-252.1686C3165.0942,-261.7126 3140.7142,-273.4935 3119.8022,-283.5987"/>
+<polygon fill="none" stroke="#ffffff" points="3118.2536,-280.4597 3110.7725,-287.962 3121.2992,-286.7624 3118.2536,-280.4597"/>
+</g>
+<!-- Pipeline -->
+<g id="node4" class="node">
+<title>Pipeline</title>
+<g id="a_node4"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="3789.3276,-324 3727.5602,-324 3727.5602,-288 3789.3276,-288 3789.3276,-324"/>
+<text text-anchor="middle" x="3758.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Pipeline</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;Pipeline -->
+<g id="edge2" class="edge">
+<title>JsonSerDeser&#45;&gt;Pipeline</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3268.5584,-246.5295C3277.4299,-248.6102 3286.6859,-250.5567 3295.4439,-252 3478.4309,-282.1554 3533.9212,-242.028 3717.6637,-288.3211"/>
+<polygon fill="none" stroke="#ffffff" points="3716.809,-291.7151 3727.3655,-290.815 3718.5517,-284.9355 3716.809,-291.7151"/>
+</g>
+<!-- ContentType -->
+<g id="node15" class="node">
+<title>ContentType</title>
+<g id="a_node15"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3636.0436,-324 3546.8442,-324 3546.8442,-288 3636.0436,-288 3636.0436,-324"/>
+<text text-anchor="middle" x="3591.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ContentType</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;ContentType -->
+<g id="edge3" class="edge">
+<title>JsonSerDeser&#45;&gt;ContentType</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3268.6379,-246.0902C3277.502,-248.2113 3286.7349,-250.2852 3295.4439,-252 3399.4275,-272.4746 3430.5132,-262.9435 3536.9447,-287.8517"/>
+<polygon fill="none" stroke="#ffffff" points="3536.2519,-291.2846 3546.7914,-290.2029 3537.8777,-284.476 3536.2519,-291.2846"/>
+</g>
+<!-- Obj -->
+<g id="node16" class="node">
+<title>Obj</title>
+<g id="a_node16"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3001.9439,-324 2958.9439,-324 2958.9439,-288 3001.9439,-288 3001.9439,-324"/>
+<text text-anchor="middle" x="2980.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Obj</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;Obj -->
+<g id="edge4" class="edge">
+<title>JsonSerDeser&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3176.1185,-246.755C3170.1558,-248.6031 3164.1555,-250.4141 3158.4439,-252 3092.9612,-270.1824 3070.1612,-262.1818 3011.208,-284.2068"/>
+<polygon fill="none" stroke="#ffffff" points="3009.8898,-280.964 3001.8325,-287.8437 3012.4214,-287.4901 3009.8898,-280.964"/>
+</g>
+<!-- JsonSerDeser&#45;&gt;Obj -->
+<g id="edge11" class="edge">
+<title>JsonSerDeser&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3176.0403,-252.1119C3107.3804,-271.1147 3085.7185,-261.3051 3019.4439,-288 3016.6603,-289.1212 3013.8338,-290.4801 3011.0198,-291.9431"/>
+<polygon fill="none" stroke="#ffffff" points="3009.2301,-288.9327 3002.1433,-296.8085 3012.5947,-295.0712 3009.2301,-288.9327"/>
+</g>
+<!-- Stream -->
+<g id="node17" class="node">
+<title>Stream</title>
+<g id="a_node17"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3709.0986,-324 3653.7892,-324 3653.7892,-288 3709.0986,-288 3709.0986,-324"/>
+<text text-anchor="middle" x="3681.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Stream</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;Stream -->
+<g id="edge5" class="edge">
+<title>JsonSerDeser&#45;&gt;Stream</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3268.5795,-246.405C3277.449,-248.4971 3286.6989,-250.4797 3295.4439,-252 3446.1994,-278.2081 3493.274,-245.7755 3643.492,-287.9604"/>
+<polygon fill="none" stroke="#ffffff" points="3642.9602,-291.4492 3653.538,-290.8484 3644.8942,-284.7217 3642.9602,-291.4492"/>
+</g>
+<!-- SerDeser -->
+<g id="node18" class="node">
+<title>SerDeser</title>
+<g id="a_node18"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3213.2434,-324 3145.6444,-324 3145.6444,-288 3213.2434,-288 3213.2434,-324"/>
+<text text-anchor="middle" x="3179.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">SerDeser</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;SerDeser -->
+<g id="edge6" class="edge">
+<title>JsonSerDeser&#45;&gt;SerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3211.5932,-252.1686C3206.7416,-260.2921 3200.9222,-270.0363 3195.5759,-278.9882"/>
+<polygon fill="none" stroke="#ffffff" points="3192.5633,-277.2067 3190.4407,-287.5867 3198.5731,-280.7959 3192.5633,-277.2067"/>
+</g>
+<!-- FileObjsOperSpec -->
+<g id="node19" class="node">
+<title>FileObjsOperSpec</title>
+<g id="a_node19"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3350.3584,-324 3230.5294,-324 3230.5294,-288 3350.3584,-288 3350.3584,-324"/>
+<text text-anchor="middle" x="3290.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">FileObjsOperSpec</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;FileObjsOperSpec -->
+<g id="edge8" class="edge">
+<title>JsonSerDeser&#45;&gt;FileObjsOperSpec</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3239.6032,-252.1686C3247.595,-260.6306 3257.2477,-270.8511 3265.9855,-280.1029"/>
+<polygon fill="none" stroke="#ffffff" points="3263.6428,-282.7198 3273.0536,-287.5867 3268.7319,-277.9134 3263.6428,-282.7198"/>
+</g>
+<!-- ObjValueIterator -->
+<g id="node20" class="node">
+<title>ObjValueIterator</title>
+<g id="a_node20"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4616.0604,-324 4504.8274,-324 4504.8274,-288 4616.0604,-288 4616.0604,-324"/>
+<text text-anchor="middle" x="4560.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjValueIterator</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;ObjValueIterator -->
+<g id="edge9" class="edge">
+<title>JsonSerDeser&#45;&gt;ObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3268.8916,-247.0095C3277.6492,-249.0179 3286.7789,-250.8154 3295.4439,-252 3820.7438,-323.816 3966.0271,-209.6915 4494.4348,-288.0953"/>
+<polygon fill="none" stroke="#ffffff" points="4494.2,-291.5991 4504.6086,-289.6215 4495.2385,-284.6766 4494.2,-291.5991"/>
+</g>
+<!-- ObjValueReceiver -->
+<g id="node23" class="node">
+<title>ObjValueReceiver</title>
+<g id="a_node23"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="5340.6138,-324 5220.274,-324 5220.274,-288 5340.6138,-288 5340.6138,-324"/>
+<text text-anchor="middle" x="5280.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjValueReceiver</text>
+</a>
+</g>
+</g>
+<!-- JsonSerDeser&#45;&gt;ObjValueReceiver -->
+<g id="edge10" class="edge">
+<title>JsonSerDeser&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3268.8852,-247.0564C3277.6434,-249.0602 3286.775,-250.844 3295.4439,-252 3634.7563,-297.2455 4493.3023,-277.082 4835.4439,-288 4967.9504,-292.2284 5122.5826,-298.8673 5210.2609,-302.791"/>
+<polygon fill="none" stroke="#ffffff" points="5210.2081,-306.292 5220.355,-303.2439 5210.522,-299.2991 5210.2081,-306.292"/>
+</g>
+<!-- XL10n -->
+<g id="node5" class="node">
+<title>XL10n</title>
+<g id="a_node5"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4036.1041,-396 3980.7837,-396 3980.7837,-360 4036.1041,-360 4036.1041,-396"/>
+<text text-anchor="middle" x="4008.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">XL10n</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;XL10n -->
+<g id="edge12" class="edge">
+<title>Pipeline&#45;&gt;XL10n</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3789.6319,-320.8096C3792.5784,-321.9729 3795.5468,-323.0591 3798.4439,-324 3870.2219,-347.3102 3895.1686,-335.6344 3970.9649,-360.3077"/>
+<polygon fill="none" stroke="#ffffff" points="3969.873,-363.633 3980.467,-363.5016 3972.1033,-356.9978 3969.873,-363.633"/>
+</g>
+<!-- Arry -->
+<g id="node6" class="node">
+<title>Arry</title>
+<g id="a_node6"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1627.9439,-396 1584.9439,-396 1584.9439,-360 1627.9439,-360 1627.9439,-396"/>
+<text text-anchor="middle" x="1606.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Arry</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;Arry -->
+<g id="edge13" class="edge">
+<title>Pipeline&#45;&gt;Arry</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3727.4112,-321.3725C3724.432,-322.4177 3721.4137,-323.3228 3718.4439,-324 3665.4524,-336.0843 1899.0398,-372.1036 1638.4308,-377.3577"/>
+<polygon fill="none" stroke="#ffffff" points="1638.0699,-373.8642 1628.1425,-377.5649 1638.211,-380.8627 1638.0699,-373.8642"/>
+</g>
+<!-- MLSerialPipeline -->
+<g id="node7" class="node">
+<title>MLSerialPipeline</title>
+<g id="a_node7"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3810.9792,-396 3695.9086,-396 3695.9086,-360 3810.9792,-360 3810.9792,-396"/>
+<text text-anchor="middle" x="3753.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">MLSerialPipeline</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;MLSerialPipeline -->
+<g id="edge14" class="edge">
+<title>Pipeline&#45;&gt;MLSerialPipeline</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3757.1822,-324.1686C3756.6474,-331.869 3756.0116,-341.0257 3755.4173,-349.5834"/>
+<polygon fill="none" stroke="#ffffff" points="3751.9239,-349.3683 3754.7226,-359.5867 3758.9071,-349.8533 3751.9239,-349.3683"/>
+</g>
+<!-- StringUtil -->
+<g id="node8" class="node">
+<title>StringUtil</title>
+<g id="a_node8"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3901.4467,-396 3829.4411,-396 3829.4411,-360 3901.4467,-360 3901.4467,-396"/>
+<text text-anchor="middle" x="3865.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">StringUtil</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;StringUtil -->
+<g id="edge15" class="edge">
+<title>Pipeline&#45;&gt;StringUtil</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3785.4445,-324.1686C3798.877,-333.2073 3815.2912,-344.2524 3829.7478,-353.9802"/>
+<polygon fill="none" stroke="#ffffff" points="3828.2014,-357.1582 3838.4519,-359.8372 3832.1093,-351.3506 3828.2014,-357.1582"/>
+</g>
+<!-- MLStep -->
+<g id="node9" class="node">
+<title>MLStep</title>
+<g id="a_node9"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4116.329,-396 4054.5588,-396 4054.5588,-360 4116.329,-360 4116.329,-396"/>
+<text text-anchor="middle" x="4085.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">MLStep</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;MLStep -->
+<g id="edge16" class="edge">
+<title>Pipeline&#45;&gt;MLStep</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3789.574,-320.9974C3792.5327,-322.1213 3795.5197,-323.1471 3798.4439,-324 3901.824,-354.1523 3936.8893,-330.4193 4044.3795,-360.1606"/>
+<polygon fill="none" stroke="#ffffff" points="4043.7368,-363.6171 4054.3138,-363.0026 4045.6622,-356.8871 4043.7368,-363.6171"/>
+</g>
+<!-- ValueType -->
+<g id="node10" class="node">
+<title>ValueType</title>
+<g id="a_node10"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4212.6377,-396 4134.2501,-396 4134.2501,-360 4212.6377,-360 4212.6377,-396"/>
+<text text-anchor="middle" x="4173.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">ValueType</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;ValueType -->
+<g id="edge17" class="edge">
+<title>Pipeline&#45;&gt;ValueType</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3789.543,-321.1072C3792.5082,-322.2081 3795.5052,-323.1985 3798.4439,-324 3936.3351,-361.6067 3981.2112,-327.6655 4124.1255,-360.0339"/>
+<polygon fill="none" stroke="#ffffff" points="4123.6004,-363.5054 4134.1344,-362.3718 4125.1926,-356.6889 4123.6004,-363.5054"/>
+</g>
+<!-- C3X -->
+<g id="node11" class="node">
+<title>C3X</title>
+<g id="a_node11"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2710.9439,-396 2667.9439,-396 2667.9439,-360 2710.9439,-360 2710.9439,-396"/>
+<text text-anchor="middle" x="2689.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">C3X</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;C3X -->
+<g id="edge18" class="edge">
+<title>Pipeline&#45;&gt;C3X</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3727.3912,-321.2875C3724.4162,-322.3505 3721.4044,-323.2829 3718.4439,-324 3619.6553,-347.9285 2885.2229,-371.9319 2721.6657,-377.0169"/>
+<polygon fill="none" stroke="#ffffff" points="2721.1973,-373.5296 2711.3103,-377.3372 2721.4138,-380.5263 2721.1973,-373.5296"/>
+</g>
+<!-- HashMap -->
+<g id="node12" class="node">
+<title>HashMap</title>
+<g id="a_node12"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3310.8702,-396 3240.0176,-396 3240.0176,-360 3310.8702,-360 3310.8702,-396"/>
+<text text-anchor="middle" x="3275.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">HashMap</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;HashMap -->
+<g id="edge19" class="edge">
+<title>Pipeline&#45;&gt;HashMap</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3727.3611,-321.1683C3724.3925,-322.2563 3721.3903,-323.2271 3718.4439,-324 3549.7488,-368.2504 3495.1297,-320.3758 3320.7478,-360.3948"/>
+<polygon fill="none" stroke="#ffffff" points="3319.9289,-356.9919 3310.9995,-362.6941 3321.536,-363.8049 3319.9289,-356.9919"/>
+</g>
+<!-- MLModelCategory -->
+<g id="node13" class="node">
+<title>MLModelCategory</title>
+<g id="a_node13"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3453.808,-396 3329.0798,-396 3329.0798,-360 3453.808,-360 3453.808,-396"/>
+<text text-anchor="middle" x="3391.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">MLModelCategory</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;MLModelCategory -->
+<g id="edge20" class="edge">
+<title>Pipeline&#45;&gt;MLModelCategory</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3727.3184,-321.0131C3724.3587,-322.1337 3721.3703,-323.1545 3718.4439,-324 3611.1881,-354.9907 3577.1101,-338.8315 3464.161,-359.7979"/>
+<polygon fill="none" stroke="#ffffff" points="3463.2437,-356.4098 3454.0802,-361.7278 3464.56,-363.285 3463.2437,-356.4098"/>
+</g>
+<!-- MLPipeBase -->
+<g id="node14" class="node">
+<title>MLPipeBase</title>
+<g id="a_node14"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3561.0394,-396 3471.8484,-396 3471.8484,-360 3561.0394,-360 3561.0394,-396"/>
+<text text-anchor="middle" x="3516.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">MLPipeBase</text>
+</a>
+</g>
+</g>
+<!-- Pipeline&#45;&gt;MLPipeBase -->
+<g id="edge21" class="edge">
+<title>Pipeline&#45;&gt;MLPipeBase</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3727.2231,-320.7111C3724.2834,-321.8951 3721.3257,-323.0131 3718.4439,-324 3657.0126,-345.0391 3636.7678,-341.4399 3571.1882,-359.6426"/>
+<polygon fill="none" stroke="#ffffff" points="3569.8337,-356.3889 3561.1732,-362.4919 3571.7493,-363.1218 3569.8337,-356.3889"/>
+</g>
+<!-- AutoCloseable -->
+<g id="node21" class="node">
+<title>AutoCloseable</title>
+<g id="a_node21"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3678.1475,-396 3578.7403,-396 3578.7403,-360 3678.1475,-360 3678.1475,-396"/>
+<text text-anchor="middle" x="3628.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">AutoCloseable</text>
+</a>
+</g>
+</g>
+<!-- ObjValueIterator&#45;&gt;AutoCloseable -->
+<g id="edge22" class="edge">
+<title>ObjValueIterator&#45;&gt;AutoCloseable</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4504.6004,-322.3257C4501.5173,-322.9573 4498.4508,-323.523 4495.4439,-324 4143.2745,-379.8619 4042.8602,-299.6674 3688.2602,-359.9299"/>
+<polygon fill="none" stroke="#ffffff" points="3687.4907,-356.5108 3678.2313,-361.66 3688.6807,-363.4089 3687.4907,-356.5108"/>
+</g>
+<!-- ParentIterator -->
+<g id="node22" class="node">
+<title>ParentIterator</title>
+<g id="a_node22"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4722.8991,-396 4629.9887,-396 4629.9887,-360 4722.8991,-360 4722.8991,-396"/>
+<text text-anchor="middle" x="4676.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">ParentIterator</text>
+</a>
+</g>
+</g>
+<!-- ObjValueIterator&#45;&gt;ParentIterator -->
+<g id="edge23" class="edge">
+<title>ObjValueIterator&#45;&gt;ParentIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4589.7156,-324.1686C4604.5527,-333.3779 4622.7454,-344.6699 4638.6301,-354.5294"/>
+<polygon fill="none" stroke="#ffffff" points="4636.8394,-357.5372 4647.1816,-359.8372 4640.5309,-351.5898 4636.8394,-357.5372"/>
+</g>
+<!-- ByteSerDeser -->
+<g id="node24" class="node">
+<title>ByteSerDeser</title>
+<g id="a_node24"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3158.1849,-252 3064.7029,-252 3064.7029,-216 3158.1849,-216 3158.1849,-252"/>
+<text text-anchor="middle" x="3111.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteSerDeser</text>
+</a>
+</g>
+</g>
+<!-- ByteSerDeser&#45;&gt;Obj -->
+<g id="edge25" class="edge">
+<title>ByteSerDeser&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3076.6215,-252.0747C3058.9582,-261.3651 3037.0343,-273.0808 3010.7031,-287.953"/>
+<polygon fill="none" stroke="#ffffff" points="3008.968,-284.9133 3001.999,-292.8935 3012.4234,-291.001 3008.968,-284.9133"/>
+</g>
+<!-- ByteSerDeser&#45;&gt;SerDeser -->
+<g id="edge24" class="edge">
+<title>ByteSerDeser&#45;&gt;SerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3128.6032,-252.1686C3136.595,-260.6306 3146.2477,-270.8511 3154.9855,-280.1029"/>
+<polygon fill="none" stroke="#ffffff" points="3152.6428,-282.7198 3162.0536,-287.5867 3157.7319,-277.9134 3152.6428,-282.7198"/>
+</g>
+<!-- ObjBinary -->
+<g id="node25" class="node">
+<title>ObjBinary</title>
+<g id="a_node25"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5023.0436,-36 4947.8442,-36 4947.8442,0 5023.0436,0 5023.0436,-36"/>
+<text text-anchor="middle" x="4985.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjBinary</text>
+</a>
+</g>
+</g>
+<!-- BasicNamedTuple -->
+<g id="node26" class="node">
+<title>BasicNamedTuple</title>
+<g id="a_node26"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="446.6292,-396 326.2586,-396 326.2586,-360 446.6292,-360 446.6292,-396"/>
+<text text-anchor="middle" x="386.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">BasicNamedTuple</text>
+</a>
+</g>
+</g>
+<!-- NamedTuple -->
+<g id="node27" class="node">
+<title>NamedTuple</title>
+<g id="a_node27"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="431.0281,-468 341.8597,-468 341.8597,-432 431.0281,-432 431.0281,-468"/>
+<text text-anchor="middle" x="386.4439" y="-445.8" font-family="Times,serif" font-size="14.00" fill="#000000">NamedTuple</text>
+</a>
+</g>
+</g>
+<!-- BasicNamedTuple&#45;&gt;NamedTuple -->
+<g id="edge26" class="edge">
+<title>BasicNamedTuple&#45;&gt;NamedTuple</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M386.4439,-396.1686C386.4439,-403.869 386.4439,-413.0257 386.4439,-421.5834"/>
+<polygon fill="none" stroke="#ffffff" points="382.944,-421.5867 386.4439,-431.5867 389.944,-421.5868 382.944,-421.5867"/>
+</g>
+<!-- Valve -->
+<g id="node28" class="node">
+<title>Valve</title>
+<g id="a_node28"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5090.3722,-36 5040.5156,-36 5040.5156,0 5090.3722,0 5090.3722,-36"/>
+<text text-anchor="middle" x="5065.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Valve</text>
+</a>
+</g>
+</g>
+<!-- JsonObjValueReceiver -->
+<g id="node29" class="node">
+<title>JsonObjValueReceiver</title>
+<g id="a_node29"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5896.0029,-252 5750.8849,-252 5750.8849,-216 5896.0029,-216 5896.0029,-252"/>
+<text text-anchor="middle" x="5823.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">JsonObjValueReceiver</text>
+</a>
+</g>
+</g>
+<!-- JsonObjValueReceiver&#45;&gt;ObjValueReceiver -->
+<g id="edge27" class="edge">
+<title>JsonObjValueReceiver&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5750.6395,-250.3753C5747.5375,-250.9484 5744.4624,-251.4932 5741.4439,-252 5603.8982,-275.0935 5441.6163,-291.6437 5350.9183,-299.9424"/>
+<polygon fill="none" stroke="#ffffff" points="5350.3989,-296.4751 5340.7564,-300.865 5351.0319,-303.4464 5350.3989,-296.4751"/>
+</g>
+<!-- AbstractValueTransformer -->
+<g id="node30" class="node">
+<title>AbstractValueTransformer</title>
+<g id="a_node30"><a xlink:title="AbstractClass">
+<polygon fill="#22d223" stroke="#edad56" points="5274.752,-36 5108.1358,-36 5108.1358,0 5274.752,0 5274.752,-36"/>
+<text text-anchor="middle" x="5191.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">AbstractValueTransformer</text>
+</a>
+</g>
+</g>
+<!-- ValueTransformer -->
+<g id="node31" class="node">
+<title>ValueTransformer</title>
+<g id="a_node31"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="5251.3303,-108 5131.5575,-108 5131.5575,-72 5251.3303,-72 5251.3303,-108"/>
+<text text-anchor="middle" x="5191.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">ValueTransformer</text>
+</a>
+</g>
+</g>
+<!-- AbstractValueTransformer&#45;&gt;ValueTransformer -->
+<g id="edge28" class="edge">
+<title>AbstractValueTransformer&#45;&gt;ValueTransformer</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5191.4439,-36.1686C5191.4439,-43.869 5191.4439,-53.0257 5191.4439,-61.5834"/>
+<polygon fill="none" stroke="#ffffff" points="5187.944,-61.5867 5191.4439,-71.5867 5194.944,-61.5868 5187.944,-61.5867"/>
+</g>
+<!-- ObjArryReader -->
+<g id="node32" class="node">
+<title>ObjArryReader</title>
+<g id="a_node32"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="1227.0099,-252 1123.8779,-252 1123.8779,-216 1227.0099,-216 1227.0099,-252"/>
+<text text-anchor="middle" x="1175.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjArryReader</text>
+</a>
+</g>
+</g>
+<!-- ClosableIterator -->
+<g id="node33" class="node">
+<title>ClosableIterator</title>
+<g id="a_node33"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1228.6279,-324 1122.2599,-324 1122.2599,-288 1228.6279,-288 1228.6279,-324"/>
+<text text-anchor="middle" x="1175.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ClosableIterator</text>
+</a>
+</g>
+</g>
+<!-- ObjArryReader&#45;&gt;ClosableIterator -->
+<g id="edge29" class="edge">
+<title>ObjArryReader&#45;&gt;ClosableIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M1175.4439,-252.1686C1175.4439,-259.869 1175.4439,-269.0257 1175.4439,-277.5834"/>
+<polygon fill="none" stroke="#ffffff" points="1171.944,-277.5867 1175.4439,-287.5867 1178.944,-277.5868 1171.944,-277.5867"/>
+</g>
+<!-- ClosableIterator&#45;&gt;AutoCloseable -->
+<g id="edge30" class="edge">
+<title>ClosableIterator&#45;&gt;AutoCloseable</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M1228.6765,-322.4332C1231.626,-323.037 1234.562,-323.5674 1237.4439,-324 1746.9508,-400.4793 3041.8345,-279.8758 3568.6702,-360.0046"/>
+<polygon fill="none" stroke="#ffffff" points="3568.2524,-363.4817 3578.6724,-361.5649 3569.3314,-356.5653 3568.2524,-363.4817"/>
+</g>
+<!-- Iterator -->
+<g id="node34" class="node">
+<title>Iterator</title>
+<g id="a_node34"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="990.1364,-396 932.7514,-396 932.7514,-360 990.1364,-360 990.1364,-396"/>
+<text text-anchor="middle" x="961.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Iterator</text>
+</a>
+</g>
+</g>
+<!-- ClosableIterator&#45;&gt;Iterator -->
+<g id="edge31" class="edge">
+<title>ClosableIterator&#45;&gt;Iterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M1122.007,-320.2192C1089.0335,-329.4885 1045.8228,-342.5238 999.8416,-360.1039"/>
+<polygon fill="none" stroke="#ffffff" points="998.36,-356.9244 990.3012,-363.8023 1000.8902,-363.4511 998.36,-356.9244"/>
+</g>
+<!-- StringSerializable -->
+<g id="node35" class="node">
+<title>StringSerializable</title>
+<g id="a_node35"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3046.7473,-252 2930.1405,-252 2930.1405,-216 3046.7473,-216 3046.7473,-252"/>
+<text text-anchor="middle" x="2988.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">StringSerializable</text>
+</a>
+</g>
+</g>
+<!-- StringSerializable&#45;&gt;Obj -->
+<g id="edge32" class="edge">
+<title>StringSerializable&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2986.4252,-252.1686C2985.5696,-259.869 2984.5522,-269.0257 2983.6013,-277.5834"/>
+<polygon fill="none" stroke="#ffffff" points="2980.1156,-277.2614 2982.4898,-287.5867 2987.0728,-278.0344 2980.1156,-277.2614"/>
+</g>
+<!-- CsvObjValueIterator -->
+<g id="node36" class="node">
+<title>CsvObjValueIterator</title>
+<g id="a_node36"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="4062.3415,-108 3928.5463,-108 3928.5463,-72 4062.3415,-72 4062.3415,-108"/>
+<text text-anchor="middle" x="3995.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">CsvObjValueIterator</text>
+</a>
+</g>
+</g>
+<!-- AbstractObjValueIterator -->
+<g id="node37" class="node">
+<title>AbstractObjValueIterator</title>
+<g id="a_node37"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4071.9819,-180 3912.9059,-180 3912.9059,-144 4071.9819,-144 4071.9819,-180"/>
+<text text-anchor="middle" x="3992.4439" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">AbstractObjValueIterator</text>
+</a>
+</g>
+</g>
+<!-- CsvObjValueIterator&#45;&gt;AbstractObjValueIterator -->
+<g id="edge33" class="edge">
+<title>CsvObjValueIterator&#45;&gt;AbstractObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3994.6869,-108.1686C3994.366,-115.869 3993.9845,-125.0257 3993.6279,-133.5834"/>
+<polygon fill="none" stroke="#ffffff" points="3990.1306,-133.4497 3993.2111,-143.5867 3997.1245,-133.7411 3990.1306,-133.4497"/>
+</g>
+<!-- ObjValueIteratorBase -->
+<g id="node38" class="node">
+<title>ObjValueIteratorBase</title>
+<g id="a_node38"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4477.7702,-252 4339.1176,-252 4339.1176,-216 4477.7702,-216 4477.7702,-252"/>
+<text text-anchor="middle" x="4408.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjValueIteratorBase</text>
+</a>
+</g>
+</g>
+<!-- AbstractObjValueIterator&#45;&gt;ObjValueIteratorBase -->
+<g id="edge34" class="edge">
+<title>AbstractObjValueIterator&#45;&gt;ObjValueIteratorBase</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4071.993,-178.2358C4075.1832,-178.8402 4078.3429,-179.4306 4081.4439,-180 4165.8226,-195.4946 4262.8335,-211.2575 4329.1414,-221.7205"/>
+<polygon fill="none" stroke="#ffffff" points="4328.6818,-225.1912 4339.1045,-223.2892 4329.7706,-218.2764 4328.6818,-225.1912"/>
+</g>
+<!-- ObjValueIteratorBase&#45;&gt;ObjValueIterator -->
+<g id="edge35" class="edge">
+<title>ObjValueIteratorBase&#45;&gt;ObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4446.7999,-252.1686C4466.9483,-261.7126 4491.8191,-273.4935 4513.1522,-283.5987"/>
+<polygon fill="none" stroke="#ffffff" points="4511.828,-286.8442 4522.3637,-287.962 4514.8246,-280.518 4511.828,-286.8442"/>
+</g>
+<!-- JsonObjValueIterator -->
+<g id="node39" class="node">
+<title>JsonObjValueIterator</title>
+<g id="a_node39"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="4218.4498,-108 4082.438,-108 4082.438,-72 4218.4498,-72 4218.4498,-108"/>
+<text text-anchor="middle" x="4150.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">JsonObjValueIterator</text>
+</a>
+</g>
+</g>
+<!-- AbstractDepthFirstObjValueIterator -->
+<g id="node40" class="node">
+<title>AbstractDepthFirstObjValueIterator</title>
+<g id="a_node40"><a xlink:title="AbstractClass">
+<polygon fill="#22d223" stroke="#edad56" points="4447.8627,-180 4229.0251,-180 4229.0251,-144 4447.8627,-144 4447.8627,-180"/>
+<text text-anchor="middle" x="4338.4439" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">AbstractDepthFirstObjValueIterator</text>
+</a>
+</g>
+</g>
+<!-- JsonObjValueIterator&#45;&gt;AbstractDepthFirstObjValueIterator -->
+<g id="edge36" class="edge">
+<title>JsonObjValueIterator&#45;&gt;AbstractDepthFirstObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4197.8842,-108.1686C4223.3634,-117.9266 4254.9483,-130.023 4281.7196,-140.2758"/>
+<polygon fill="none" stroke="#ffffff" points="4280.7543,-143.654 4291.3447,-143.962 4283.2579,-137.117 4280.7543,-143.654"/>
+</g>
+<!-- JsonParserContext -->
+<g id="node41" class="node">
+<title>JsonParserContext</title>
+<g id="a_node41"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4210.6433,-180 4090.2445,-180 4090.2445,-144 4210.6433,-144 4210.6433,-180"/>
+<text text-anchor="middle" x="4150.4439" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">JsonParserContext</text>
+</a>
+</g>
+</g>
+<!-- JsonObjValueIterator&#45;&gt;JsonParserContext -->
+<g id="edge37" class="edge">
+<title>JsonObjValueIterator&#45;&gt;JsonParserContext</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4150.4439,-108.1686C4150.4439,-115.869 4150.4439,-125.0257 4150.4439,-133.5834"/>
+<polygon fill="none" stroke="#ffffff" points="4146.944,-133.5867 4150.4439,-143.5867 4153.944,-133.5868 4146.944,-133.5867"/>
+</g>
+<!-- DepthFirstParentIterator -->
+<g id="node42" class="node">
+<title>DepthFirstParentIterator</title>
+<g id="a_node42"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4618.78,-180 4466.1078,-180 4466.1078,-144 4618.78,-144 4618.78,-180"/>
+<text text-anchor="middle" x="4542.4439" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">DepthFirstParentIterator</text>
+</a>
+</g>
+</g>
+<!-- JsonObjValueIterator&#45;&gt;DepthFirstParentIterator -->
+<g id="edge38" class="edge">
+<title>JsonObjValueIterator&#45;&gt;DepthFirstParentIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4218.8213,-106.2601C4221.7308,-106.8648 4224.6143,-107.4476 4227.4439,-108 4325.5018,-127.1419 4353.4264,-125.5598 4456.2019,-144.0141"/>
+<polygon fill="none" stroke="#ffffff" points="4455.5863,-147.4595 4466.0507,-145.8023 4456.8368,-140.5721 4455.5863,-147.4595"/>
+</g>
+<!-- AbstractDepthFirstObjValueIterator&#45;&gt;ObjValueIteratorBase -->
+<g id="edge39" class="edge">
+<title>AbstractDepthFirstObjValueIterator&#45;&gt;ObjValueIteratorBase</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4356.1079,-180.1686C4364.4171,-188.7152 4374.4703,-199.0557 4383.5357,-208.3802"/>
+<polygon fill="none" stroke="#ffffff" points="4381.0618,-210.8565 4390.5421,-215.5867 4386.0808,-205.977 4381.0618,-210.8565"/>
+</g>
+<!-- AbstractObj -->
+<g id="node43" class="node">
+<title>AbstractObj</title>
+<g id="a_node43"><a xlink:title="AbstractClass">
+<polygon fill="#22d223" stroke="#edad56" points="2856.8643,-252 2772.0235,-252 2772.0235,-216 2856.8643,-216 2856.8643,-252"/>
+<text text-anchor="middle" x="2814.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">AbstractObj</text>
+</a>
+</g>
+</g>
+<!-- AbstractObj&#45;&gt;Obj -->
+<g id="edge41" class="edge">
+<title>AbstractObj&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2856.7846,-249.1233C2883.7368,-259.1913 2919.1478,-273.2423 2949.4439,-288 2949.5383,-288.046 2949.6328,-288.0922 2949.7274,-288.1385"/>
+<polygon fill="none" stroke="#ffffff" points="2948.1616,-291.2694 2958.6433,-292.8138 2951.4125,-285.07 2948.1616,-291.2694"/>
+</g>
+<!-- DefaultValueLogic -->
+<g id="node44" class="node">
+<title>DefaultValueLogic</title>
+<g id="a_node44"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2940.5057,-324 2816.3821,-324 2816.3821,-288 2940.5057,-288 2940.5057,-324"/>
+<text text-anchor="middle" x="2878.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">DefaultValueLogic</text>
+</a>
+</g>
+</g>
+<!-- AbstractObj&#45;&gt;DefaultValueLogic -->
+<g id="edge40" class="edge">
+<title>AbstractObj&#45;&gt;DefaultValueLogic</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2830.5938,-252.1686C2838.1156,-260.6306 2847.2004,-270.8511 2855.4243,-280.1029"/>
+<polygon fill="none" stroke="#ffffff" points="2852.8169,-282.4379 2862.0766,-287.5867 2858.0488,-277.7873 2852.8169,-282.4379"/>
+</g>
+<!-- ObjReader -->
+<g id="node45" class="node">
+<title>ObjReader</title>
+<g id="a_node45"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="1321.5829,-252 1245.3049,-252 1245.3049,-216 1321.5829,-216 1321.5829,-252"/>
+<text text-anchor="middle" x="1283.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjReader</text>
+</a>
+</g>
+</g>
+<!-- ObjReader&#45;&gt;ClosableIterator -->
+<g id="edge42" class="edge">
+<title>ObjReader&#45;&gt;ClosableIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M1256.1909,-252.1686C1242.505,-261.2926 1225.7524,-272.461 1211.0612,-282.2551"/>
+<polygon fill="none" stroke="#ffffff" points="1209.0672,-279.3779 1202.6881,-287.8372 1212.9501,-285.2023 1209.0672,-279.3779"/>
+</g>
+<!-- CsvSerDeser -->
+<g id="node46" class="node">
+<title>CsvSerDeser</title>
+<g id="a_node46"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3592.0239,-252 3502.8639,-252 3502.8639,-216 3592.0239,-216 3592.0239,-252"/>
+<text text-anchor="middle" x="3547.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">CsvSerDeser</text>
+</a>
+</g>
+</g>
+<!-- CsvSerDeser&#45;&gt;AbstractContent -->
+<g id="edge43" class="edge">
+<title>CsvSerDeser&#45;&gt;AbstractContent</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3502.8663,-249.7044C3499.6988,-250.559 3496.536,-251.3373 3493.4439,-252 3340.7113,-284.7336 3294.9335,-259.0763 3137.2988,-288.0535"/>
+<polygon fill="none" stroke="#ffffff" points="3136.4277,-284.656 3127.2484,-289.9465 3137.7234,-291.535 3136.4277,-284.656"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;Pipeline -->
+<g id="edge48" class="edge">
+<title>CsvSerDeser&#45;&gt;Pipeline</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3592.2216,-246.5796C3624.8334,-256.0916 3670.1646,-270.0345 3717.6288,-287.8787"/>
+<polygon fill="none" stroke="#ffffff" points="3716.5559,-291.2152 3727.1469,-291.4994 3719.0448,-284.6725 3716.5559,-291.2152"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;ContentType -->
+<g id="edge57" class="edge">
+<title>CsvSerDeser&#45;&gt;ContentType</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3558.547,-252.1686C3563.5113,-260.2921 3569.4661,-270.0363 3574.9367,-278.9882"/>
+<polygon fill="none" stroke="#ffffff" points="3571.9903,-280.879 3580.1913,-287.5867 3577.9633,-277.2288 3571.9903,-280.879"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;Obj -->
+<g id="edge50" class="edge">
+<title>CsvSerDeser&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3502.8889,-247.2669C3496.7158,-249.1169 3490.451,-250.7943 3484.4439,-252 3276.8929,-293.6566 3208.8706,-225.2054 3011.5445,-284.8692"/>
+<polygon fill="none" stroke="#ffffff" points="3010.261,-281.6026 3001.7443,-287.9047 3012.3322,-288.2892 3010.261,-281.6026"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;Obj -->
+<g id="edge56" class="edge">
+<title>CsvSerDeser&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3502.7348,-251.9413C3502.6377,-251.961 3502.5408,-251.9806 3502.4439,-252 3291.3907,-294.3595 3224.6148,-222.864 3019.4439,-288 3016.5837,-288.908 3013.7101,-290.136 3010.8701,-291.5266"/>
+<polygon fill="none" stroke="#ffffff" points="3009.1083,-288.5002 3001.9715,-296.3307 3012.4337,-294.6599 3009.1083,-288.5002"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;Stream -->
+<g id="edge45" class="edge">
+<title>CsvSerDeser&#45;&gt;Stream</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3581.2578,-252.1686C3600.5342,-262.5261 3624.7137,-275.5181 3644.489,-286.1437"/>
+<polygon fill="none" stroke="#ffffff" points="3643.0507,-289.344 3653.5162,-290.9941 3646.3639,-283.1777 3643.0507,-289.344"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;SerDeser -->
+<g id="edge49" class="edge">
+<title>CsvSerDeser&#45;&gt;SerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3502.8418,-249.5942C3499.6801,-250.4751 3496.5253,-251.2893 3493.4439,-252 3377.7531,-278.6821 3340.9611,-256.8964 3223.2917,-287.8483"/>
+<polygon fill="none" stroke="#ffffff" points="3222.2911,-284.493 3213.5506,-290.4809 3224.1175,-291.2506 3222.2911,-284.493"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;FileObjsOperSpec -->
+<g id="edge53" class="edge">
+<title>CsvSerDeser&#45;&gt;FileObjsOperSpec</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3502.7225,-249.1435C3499.5892,-250.1317 3496.4733,-251.0931 3493.4439,-252 3490.0845,-253.0057 3417.4452,-272.3058 3360.0103,-287.5482"/>
+<polygon fill="none" stroke="#ffffff" points="3358.9791,-284.2006 3350.2113,-290.1485 3360.7745,-290.9664 3358.9791,-284.2006"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;ObjValueIterator -->
+<g id="edge44" class="edge">
+<title>CsvSerDeser&#45;&gt;ObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3592.1002,-246.6625C3601.0883,-248.786 3610.5167,-250.7144 3619.4439,-252 4001.8315,-307.0673 4108.6692,-228.9641 4494.5623,-288.1021"/>
+<polygon fill="none" stroke="#ffffff" points="4494.1836,-291.5852 4504.6024,-289.6619 4495.2583,-284.6681 4494.1836,-291.5852"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;ObjValueReceiver -->
+<g id="edge54" class="edge">
+<title>CsvSerDeser&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3592.0887,-246.7437C3601.0778,-248.8605 3610.5095,-250.7656 3619.4439,-252 3887.2408,-288.9979 4565.269,-278.5368 4835.4439,-288 4967.9366,-292.6407 5122.5735,-299.1397 5210.2563,-302.9259"/>
+<polygon fill="none" stroke="#ffffff" points="5210.2091,-306.427 5220.351,-303.3626 5210.5117,-299.4336 5210.2091,-306.427"/>
+</g>
+<!-- CsvSerDeser&#45;&gt;CsvSerDeser -->
+<g id="edge46" class="edge">
+<title>CsvSerDeser&#45;&gt;CsvSerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3592.1356,-220.7975C3602.4253,-221.9351 3609.9839,-226.3359 3609.9839,-234 3609.9839,-238.9098 3606.8819,-242.4804 3601.947,-244.7117"/>
+<polygon fill="none" stroke="#ffffff" points="3600.9669,-241.3494 3592.1356,-247.2025 3602.6894,-248.1342 3600.9669,-241.3494"/>
+</g>
+<!-- NotImplementedException -->
+<g id="node47" class="node">
+<title>NotImplementedException</title>
+<g id="a_node47"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4200.0713,-324 4032.8165,-324 4032.8165,-288 4200.0713,-288 4200.0713,-324"/>
+<text text-anchor="middle" x="4116.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">NotImplementedException</text>
+</a>
+</g>
+</g>
+<!-- CsvSerDeser&#45;&gt;NotImplementedException -->
+<g id="edge47" class="edge">
+<title>CsvSerDeser&#45;&gt;NotImplementedException</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3592.1526,-246.3268C3601.1364,-248.478 3610.5498,-250.5024 3619.4439,-252 3794.4256,-281.4638 3843.7533,-263.3006 4022.7563,-287.8451"/>
+<polygon fill="none" stroke="#ffffff" points="4022.3818,-291.3267 4032.7699,-289.2438 4023.3502,-284.394 4022.3818,-291.3267"/>
+</g>
+<!-- C3RuntimeException -->
+<g id="node48" class="node">
+<title>C3RuntimeException</title>
+<g id="a_node48"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4015.2669,-324 3877.6209,-324 3877.6209,-288 4015.2669,-288 4015.2669,-324"/>
+<text text-anchor="middle" x="3946.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">C3RuntimeException</text>
+</a>
+</g>
+</g>
+<!-- CsvSerDeser&#45;&gt;C3RuntimeException -->
+<g id="edge51" class="edge">
+<title>CsvSerDeser&#45;&gt;C3RuntimeException</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3592.223,-245.9409C3601.201,-248.1239 3610.5943,-250.2587 3619.4439,-252 3726.0504,-272.9762 3756.81,-267.7382 3867.7015,-287.9534"/>
+<polygon fill="none" stroke="#ffffff" points="3867.1355,-291.408 3877.6056,-289.7871 3868.4099,-284.525 3867.1355,-291.408"/>
+</g>
+<!-- GreenButtonCsvSerDeser -->
+<g id="node49" class="node">
+<title>GreenButtonCsvSerDeser</title>
+<g id="a_node49"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3529.3386,-324 3367.5492,-324 3367.5492,-288 3529.3386,-288 3529.3386,-324"/>
+<text text-anchor="middle" x="3448.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">GreenButtonCsvSerDeser</text>
+</a>
+</g>
+</g>
+<!-- CsvSerDeser&#45;&gt;GreenButtonCsvSerDeser -->
+<g id="edge52" class="edge">
+<title>CsvSerDeser&#45;&gt;GreenButtonCsvSerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3522.462,-252.1686C3510.1511,-261.1221 3495.1332,-272.0442 3481.8502,-281.7045"/>
+<polygon fill="none" stroke="#ffffff" points="3479.4466,-279.1248 3473.4178,-287.8372 3483.5638,-284.786 3479.4466,-279.1248"/>
+</g>
+<!-- Writer -->
+<g id="node50" class="node">
+<title>Writer</title>
+<g id="a_node50"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3859.4776,-324 3807.4102,-324 3807.4102,-288 3859.4776,-288 3859.4776,-324"/>
+<text text-anchor="middle" x="3833.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Writer</text>
+</a>
+</g>
+</g>
+<!-- CsvSerDeser&#45;&gt;Writer -->
+<g id="edge55" class="edge">
+<title>CsvSerDeser&#45;&gt;Writer</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3592.304,-245.5574C3601.2753,-247.772 3610.6454,-250.0165 3619.4439,-252 3695.5136,-269.1484 3719.9514,-261.8235 3797.3233,-288.0834"/>
+<polygon fill="none" stroke="#ffffff" points="3796.4335,-291.4794 3807.0283,-291.4562 3798.7315,-284.8673 3796.4335,-291.4794"/>
+</g>
+<!-- NullReceiver -->
+<g id="node51" class="node">
+<title>NullReceiver</title>
+<g id="a_node51"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="6279.5786,-252 6189.3092,-252 6189.3092,-216 6279.5786,-216 6279.5786,-252"/>
+<text text-anchor="middle" x="6234.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">NullReceiver</text>
+</a>
+</g>
+</g>
+<!-- NullReceiver&#45;&gt;ObjValueReceiver -->
+<g id="edge59" class="edge">
+<title>NullReceiver&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M6189.3005,-250.0016C6186.3249,-250.7599 6183.3547,-251.4377 6180.4439,-252 6021.7816,-282.652 5533.6101,-298.987 5350.6554,-304.1603"/>
+<polygon fill="none" stroke="#ffffff" points="5350.5084,-300.663 5340.6104,-304.4418 5350.7045,-307.6602 5350.5084,-300.663"/>
+</g>
+<!-- MappReceiver -->
+<g id="node52" class="node">
+<title>MappReceiver</title>
+<g id="a_node52"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="6340.8501,-324 6242.0377,-324 6242.0377,-288 6340.8501,-288 6340.8501,-324"/>
+<text text-anchor="middle" x="6291.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">MappReceiver</text>
+</a>
+</g>
+</g>
+<!-- NullReceiver&#45;&gt;MappReceiver -->
+<g id="edge58" class="edge">
+<title>NullReceiver&#45;&gt;MappReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M6248.8274,-252.1686C6255.3925,-260.4614 6263.2946,-270.443 6270.5017,-279.5467"/>
+<polygon fill="none" stroke="#ffffff" points="6267.9155,-281.9187 6276.8667,-287.5867 6273.4038,-277.5738 6267.9155,-281.9187"/>
+</g>
+<!-- ArryReceiver -->
+<g id="node53" class="node">
+<title>ArryReceiver</title>
+<g id="a_node53"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="6224.6181,-324 6132.2697,-324 6132.2697,-288 6224.6181,-288 6224.6181,-324"/>
+<text text-anchor="middle" x="6178.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ArryReceiver</text>
+</a>
+</g>
+</g>
+<!-- NullReceiver&#45;&gt;ArryReceiver -->
+<g id="edge60" class="edge">
+<title>NullReceiver&#45;&gt;ArryReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M6220.3127,-252.1686C6213.8628,-260.4614 6206.0994,-270.443 6199.0187,-279.5467"/>
+<polygon fill="none" stroke="#ffffff" points="6196.142,-277.5444 6192.7653,-287.5867 6201.6675,-281.842 6196.142,-277.5444"/>
+</g>
+<!-- ArryIterator -->
+<g id="node54" class="node">
+<title>ArryIterator</title>
+<g id="a_node54"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4718.0648,-324 4634.823,-324 4634.823,-288 4718.0648,-288 4718.0648,-324"/>
+<text text-anchor="middle" x="4676.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ArryIterator</text>
+</a>
+</g>
+</g>
+<!-- ArryIterator&#45;&gt;ParentIterator -->
+<g id="edge61" class="edge">
+<title>ArryIterator&#45;&gt;ParentIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4676.4439,-324.1686C4676.4439,-331.869 4676.4439,-341.0257 4676.4439,-349.5834"/>
+<polygon fill="none" stroke="#ffffff" points="4672.944,-349.5867 4676.4439,-359.5867 4679.944,-349.5868 4672.944,-349.5867"/>
+</g>
+<!-- ChildIterator -->
+<g id="node55" class="node">
+<title>ChildIterator</title>
+<g id="a_node55"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4829.7544,-396 4741.1334,-396 4741.1334,-360 4829.7544,-360 4829.7544,-396"/>
+<text text-anchor="middle" x="4785.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">ChildIterator</text>
+</a>
+</g>
+</g>
+<!-- ArryIterator&#45;&gt;ChildIterator -->
+<g id="edge62" class="edge">
+<title>ArryIterator&#45;&gt;ChildIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4703.9492,-324.1686C4717.7619,-333.2926 4734.6695,-344.461 4749.4968,-354.2551"/>
+<polygon fill="none" stroke="#ffffff" points="4747.6743,-357.2459 4757.9474,-359.8372 4751.5325,-351.4051 4747.6743,-357.2459"/>
+</g>
+<!-- EchoNative -->
+<g id="node56" class="node">
+<title>EchoNative</title>
+<g id="a_node56"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1712.5281,-252 1630.3597,-252 1630.3597,-216 1712.5281,-216 1712.5281,-252"/>
+<text text-anchor="middle" x="1671.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">EchoNative</text>
+</a>
+</g>
+</g>
+<!-- EchoNative&#45;&gt;Obj -->
+<g id="edge64" class="edge">
+<title>EchoNative&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M1712.5597,-235.8511C1786.1412,-239.1557 1945.2068,-246.2616 2079.4439,-252 2269.6511,-260.1311 2747.9374,-234.6785 2949.0257,-288.9223"/>
+<polygon fill="none" stroke="#ffffff" points="2948.1049,-292.2991 2958.68,-291.652 2950.0096,-285.5632 2948.1049,-292.2991"/>
+</g>
+<!-- Native -->
+<g id="node57" class="node">
+<title>Native</title>
+<g id="a_node57"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1300.2618,-324 1246.626,-324 1246.626,-288 1300.2618,-288 1300.2618,-324"/>
+<text text-anchor="middle" x="1273.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Native</text>
+</a>
+</g>
+</g>
+<!-- EchoNative&#45;&gt;Native -->
+<g id="edge63" class="edge">
+<title>EchoNative&#45;&gt;Native</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M1630.2713,-236.6917C1563.0363,-241.8678 1425.9827,-255.6963 1314.4439,-288 1312.9972,-288.419 1311.5346,-288.8777 1310.0668,-289.3676"/>
+<polygon fill="none" stroke="#ffffff" points="1308.5649,-286.1922 1300.4183,-292.9659 1311.0109,-292.751 1308.5649,-286.1922"/>
+</g>
+<!-- ValueReader -->
+<g id="node58" class="node">
+<title>ValueReader</title>
+<g id="a_node58"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5382.0113,-36 5292.8765,-36 5292.8765,0 5382.0113,0 5382.0113,-36"/>
+<text text-anchor="middle" x="5337.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ValueReader</text>
+</a>
+</g>
+</g>
+<!-- XmlObjValueReceiverGreenButtonFormat -->
+<g id="node59" class="node">
+<title>XmlObjValueReceiverGreenButtonFormat</title>
+<g id="a_node59"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="6171.2548,-252 5913.633,-252 5913.633,-216 6171.2548,-216 6171.2548,-252"/>
+<text text-anchor="middle" x="6042.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">XmlObjValueReceiverGreenButtonFormat</text>
+</a>
+</g>
+</g>
+<!-- XmlObjValueReceiverGreenButtonFormat&#45;&gt;ObjValueReceiver -->
+<g id="edge65" class="edge">
+<title>XmlObjValueReceiverGreenButtonFormat&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5913.3891,-251.1186C5910.718,-251.4203 5908.0672,-251.7145 5905.4439,-252 5704.7034,-273.8484 5466.9065,-292.3739 5351.0202,-300.9298"/>
+<polygon fill="none" stroke="#ffffff" points="5350.5811,-297.4526 5340.8649,-301.6771 5351.0949,-304.4337 5350.5811,-297.4526"/>
+</g>
+<!-- ByteSerDeserNameCodes -->
+<g id="node60" class="node">
+<title>ByteSerDeserNameCodes</title>
+<g id="a_node60"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5562.6068,-36 5400.281,-36 5400.281,0 5562.6068,0 5562.6068,-36"/>
+<text text-anchor="middle" x="5481.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteSerDeserNameCodes</text>
+</a>
+</g>
+</g>
+<!-- XmlObjValueReceiver -->
+<g id="node61" class="node">
+<title>XmlObjValueReceiver</title>
+<g id="a_node61"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5028.0015,-252 4882.8863,-252 4882.8863,-216 5028.0015,-216 5028.0015,-252"/>
+<text text-anchor="middle" x="4955.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">XmlObjValueReceiver</text>
+</a>
+</g>
+</g>
+<!-- XmlObjValueReceiver&#45;&gt;ObjValueReceiver -->
+<g id="edge66" class="edge">
+<title>XmlObjValueReceiver&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5028.301,-250.1936C5031.0501,-250.8036 5033.7718,-251.4074 5036.4439,-252 5095.0919,-265.0062 5161.6768,-279.74 5210.4566,-290.5279"/>
+<polygon fill="none" stroke="#ffffff" points="5209.7567,-293.9576 5220.2765,-292.6995 5211.2682,-287.1227 5209.7567,-293.9576"/>
+</g>
+<!-- AbstractRefIterator -->
+<g id="node62" class="node">
+<title>AbstractRefIterator</title>
+<g id="a_node62"><a xlink:title="AbstractClass">
+<polygon fill="#22d223" stroke="#edad56" points="4516.7702,-108 4392.1176,-108 4392.1176,-72 4516.7702,-72 4516.7702,-108"/>
+<text text-anchor="middle" x="4454.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">AbstractRefIterator</text>
+</a>
+</g>
+</g>
+<!-- AbstractRefIterator&#45;&gt;AbstractObjValueIterator -->
+<g id="edge68" class="edge">
+<title>AbstractRefIterator&#45;&gt;AbstractObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4391.8214,-106.3447C4388.9968,-106.934 4386.1945,-107.4896 4383.4439,-108 4253.7847,-132.0588 4216.707,-123.0559 4082.6884,-143.8823"/>
+<polygon fill="none" stroke="#ffffff" points="4081.7723,-140.4836 4072.4419,-145.5029 4082.8659,-147.3976 4081.7723,-140.4836"/>
+</g>
+<!-- RefIterator -->
+<g id="node63" class="node">
+<title>RefIterator</title>
+<g id="a_node63"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4893.349,-180 4815.5388,-180 4815.5388,-144 4893.349,-144 4893.349,-180"/>
+<text text-anchor="middle" x="4854.4439" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">RefIterator</text>
+</a>
+</g>
+</g>
+<!-- AbstractRefIterator&#45;&gt;RefIterator -->
+<g id="edge67" class="edge">
+<title>AbstractRefIterator&#45;&gt;RefIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4516.7861,-106.0602C4520.0448,-106.7509 4523.2785,-107.403 4526.4439,-108 4646.6082,-130.6647 4682.8401,-114.6328 4805.8553,-144.1908"/>
+<polygon fill="none" stroke="#ffffff" points="4805.1034,-147.6101 4815.6495,-146.5953 4806.7723,-140.8119 4805.1034,-147.6101"/>
+</g>
+<!-- RefIterator&#45;&gt;ObjValueIterator -->
+<g id="edge69" class="edge">
+<title>RefIterator&#45;&gt;ObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4815.5891,-177.1779C4812.5143,-178.1926 4809.4401,-179.1481 4806.4439,-180 4727.1316,-202.5514 4693.6867,-171.229 4624.4439,-216 4600.9542,-231.1879 4583.4518,-258.2954 4572.7414,-278.8037"/>
+<polygon fill="none" stroke="#ffffff" points="4569.4973,-277.4664 4568.167,-287.9774 4575.7617,-280.5901 4569.4973,-277.4664"/>
+</g>
+<!-- RefIterator&#45;&gt;ChildIterator -->
+<g id="edge70" class="edge">
+<title>RefIterator&#45;&gt;ChildIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4855.8643,-180.2318C4857.5293,-211.2906 4857.6674,-275.7788 4835.4439,-324 4830.6126,-334.4832 4822.9641,-344.2925 4815.0886,-352.598"/>
+<polygon fill="none" stroke="#ffffff" points="4812.49,-350.2461 4807.8665,-359.7788 4817.4256,-355.21 4812.49,-350.2461"/>
+</g>
+<!-- Filter -->
+<g id="node64" class="node">
+<title>Filter</title>
+<g id="a_node64"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2916.7747,-180 2870.1131,-180 2870.1131,-144 2916.7747,-144 2916.7747,-180"/>
+<text text-anchor="middle" x="2893.4439" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">Filter</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;Arry -->
+<g id="edge80" class="edge">
+<title>Filter&#45;&gt;Arry</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2870.0935,-162.2622C2662.9505,-164.6412 1146.744,-183.1639 1114.4439,-216 1080.7818,-250.2207 1081.4024,-288.2573 1113.4439,-324 1144.2861,-358.4049 1470.0182,-373.079 1574.4313,-376.9216"/>
+<polygon fill="none" stroke="#ffffff" points="1574.543,-380.4277 1584.6622,-377.2892 1574.7944,-373.4323 1574.543,-380.4277"/>
+</g>
+<!-- Filter&#45;&gt;Obj -->
+<g id="edge75" class="edge">
+<title>Filter&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2889.5083,-180.0873C2890.7062,-199.1517 2898.1489,-229.4812 2912.4439,-252 2921.9671,-267.0018 2936.7122,-280.4989 2950.2032,-290.247"/>
+<polygon fill="none" stroke="#ffffff" points="2948.579,-293.3744 2958.82,-296.0896 2952.5075,-287.5807 2948.579,-293.3744"/>
+</g>
+<!-- Filter&#45;&gt;Obj -->
+<g id="edge76" class="edge">
+<title>Filter&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2902.862,-180.0873C2908.7062,-199.1517 2916.1489,-229.4812 2930.4439,-252 2937.2357,-262.6991 2946.6836,-272.6329 2955.6227,-280.9871"/>
+<polygon fill="none" stroke="#ffffff" points="2953.5035,-283.7896 2963.2678,-287.9017 2958.199,-278.598 2953.5035,-283.7896"/>
+</g>
+<!-- Filter&#45;&gt;Iterator -->
+<g id="edge81" class="edge">
+<title>Filter&#45;&gt;Iterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2870.1449,-162.2609C2638.2123,-164.8951 751.7819,-187.1892 702.4439,-216 657.829,-242.0527 625.469,-285.0777 659.4439,-324 696.5552,-366.5154 851.1943,-345.363 922.8186,-360.7484"/>
+<polygon fill="none" stroke="#ffffff" points="922.2042,-364.2039 932.76,-363.2954 923.9415,-357.423 922.2042,-364.2039"/>
+</g>
+<!-- Filter&#45;&gt;StringSerializable -->
+<g id="edge77" class="edge">
+<title>Filter&#45;&gt;StringSerializable</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2916.9271,-179.7978C2928.8262,-188.8161 2943.4542,-199.9025 2956.3737,-209.6941"/>
+<polygon fill="none" stroke="#ffffff" points="2954.4872,-212.6561 2964.571,-215.9069 2958.7154,-207.0772 2954.4872,-212.6561"/>
+</g>
+<!-- Filter&#45;&gt;Filter -->
+<g id="edge79" class="edge">
+<title>Filter&#45;&gt;Filter</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2916.7189,-148.6187C2926.4012,-147.6958 2934.6087,-152.1563 2934.6087,-162 2934.6087,-167.9985 2931.5609,-171.998 2926.9889,-173.9985"/>
+<polygon fill="none" stroke="#ffffff" points="2926.1624,-170.5782 2916.7189,-175.3813 2927.0966,-177.5155 2926.1624,-170.5782"/>
+</g>
+<!-- PrimitiveType -->
+<g id="node65" class="node">
+<title>PrimitiveType</title>
+<g id="a_node65"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3484.822,-252 3388.0658,-252 3388.0658,-216 3484.822,-216 3484.822,-252"/>
+<text text-anchor="middle" x="3436.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">PrimitiveType</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;PrimitiveType -->
+<g id="edge71" class="edge">
+<title>Filter&#45;&gt;PrimitiveType</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2916.7189,-162.9741C2985.8872,-166.2055 3196.1937,-178.4647 3377.7994,-215.8595"/>
+<polygon fill="none" stroke="#ffffff" points="3377.2885,-219.3283 3387.7932,-217.9492 3378.7212,-212.4765 3377.2885,-219.3283"/>
+</g>
+<!-- DefaultInstance -->
+<g id="node66" class="node">
+<title>DefaultInstance</title>
+<g id="a_node66"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="997.5618,-252 893.326,-252 893.326,-216 997.5618,-216 997.5618,-252"/>
+<text text-anchor="middle" x="945.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">DefaultInstance</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;DefaultInstance -->
+<g id="edge72" class="edge">
+<title>Filter&#45;&gt;DefaultInstance</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2870.2422,-162.3621C2685.6081,-165.2924 1451.7794,-185.7946 1080.4439,-216 1056.7369,-217.9284 1030.8162,-221.1206 1008.0821,-224.2856"/>
+<polygon fill="none" stroke="#ffffff" points="1007.2894,-220.8629 997.8803,-225.7332 1008.2729,-227.7935 1007.2894,-220.8629"/>
+</g>
+<!-- Type -->
+<g id="node69" class="node">
+<title>Type</title>
+<g id="a_node69"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1052.7117,-396 1008.1761,-396 1008.1761,-360 1052.7117,-360 1052.7117,-396"/>
+<text text-anchor="middle" x="1030.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Type</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;Type -->
+<g id="edge78" class="edge">
+<title>Filter&#45;&gt;Type</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2870.101,-162.2066C2659.4551,-164.126 1089.4933,-179.5949 884.4439,-216 785.6391,-233.5421 729.0055,-206.5097 670.4439,-288 661.1067,-300.993 659.7632,-312.0869 670.4439,-324 717.6222,-376.6223 913.4098,-340.1496 998.1579,-360.7085"/>
+<polygon fill="none" stroke="#ffffff" points="997.3478,-364.1172 1007.9251,-363.5083 999.2767,-357.3882 997.3478,-364.1172"/>
+</g>
+<!-- Field -->
+<g id="node71" class="node">
+<title>Field</title>
+<g id="a_node71"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3672.7228,-252 3628.165,-252 3628.165,-216 3672.7228,-216 3672.7228,-252"/>
+<text text-anchor="middle" x="3650.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Field</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;Field -->
+<g id="edge73" class="edge">
+<title>Filter&#45;&gt;Field</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2916.8278,-162.3343C3023.3898,-164.0665 3464.0989,-173.5396 3618.2254,-216.5299"/>
+<polygon fill="none" stroke="#ffffff" points="3617.3742,-219.928 3627.9564,-219.4103 3619.3611,-213.2159 3617.3742,-219.928"/>
+</g>
+<!-- ArrayList -->
+<g id="node72" class="node">
+<title>ArrayList</title>
+<g id="a_node72"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3761.866,-252 3691.0218,-252 3691.0218,-216 3761.866,-216 3761.866,-252"/>
+<text text-anchor="middle" x="3726.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ArrayList</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;ArrayList -->
+<g id="edge74" class="edge">
+<title>Filter&#45;&gt;ArrayList</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2916.7691,-162.6194C3028.5734,-165.7344 3510.8499,-180.8643 3681.1076,-216.4682"/>
+<polygon fill="none" stroke="#ffffff" points="3680.3875,-219.8934 3690.9055,-218.6204 3681.8893,-213.0564 3680.3875,-219.8934"/>
+</g>
+<!-- Value -->
+<g id="node73" class="node">
+<title>Value</title>
+<g id="a_node73"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2138.3722,-252 2088.5156,-252 2088.5156,-216 2138.3722,-216 2138.3722,-252"/>
+<text text-anchor="middle" x="2113.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Value</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;Value -->
+<g id="edge82" class="edge">
+<title>Filter&#45;&gt;Value</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2870.1,-164.1548C2758.7943,-174.4292 2281.8603,-218.4539 2148.3175,-230.7809"/>
+<polygon fill="none" stroke="#ffffff" points="2147.8735,-227.3069 2138.2376,-231.7114 2148.517,-234.2773 2147.8735,-227.3069"/>
+</g>
+<!-- Function -->
+<g id="node88" class="node">
+<title>Function</title>
+<g id="a_node88"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3370.2227,-252 3304.6651,-252 3304.6651,-216 3370.2227,-216 3370.2227,-252"/>
+<text text-anchor="middle" x="3337.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Function</text>
+</a>
+</g>
+</g>
+<!-- Filter&#45;&gt;Function -->
+<g id="edge83" class="edge">
+<title>Filter&#45;&gt;Function</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2916.9986,-162.938C2978.2584,-165.8405 3147.4359,-176.8155 3294.1886,-216.0658"/>
+<polygon fill="none" stroke="#ffffff" points="3293.6986,-219.56 3304.2673,-218.8163 3295.5417,-212.8069 3293.6986,-219.56"/>
+</g>
+<!-- DefaultInstance&#45;&gt;Obj -->
+<g id="edge88" class="edge">
+<title>DefaultInstance&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M997.871,-240.7656C1031.1928,-244.7726 1075.2781,-249.5347 1114.4439,-252 1314.9879,-264.6233 2711.2799,-233.9688 2948.8778,-289.0727"/>
+<polygon fill="none" stroke="#ffffff" points="2948.1427,-292.4974 2958.6984,-291.5876 2949.8793,-285.7162 2948.1427,-292.4974"/>
+</g>
+<!-- CloudResource -->
+<g id="node67" class="node">
+<title>CloudResource</title>
+<g id="a_node67"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1066.7572,-324 964.1306,-324 964.1306,-288 1066.7572,-288 1066.7572,-324"/>
+<text text-anchor="middle" x="1015.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">CloudResource</text>
+</a>
+</g>
+</g>
+<!-- DefaultInstance&#45;&gt;CloudResource -->
+<g id="edge84" class="edge">
+<title>DefaultInstance&#45;&gt;CloudResource</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M963.1079,-252.1686C971.4171,-260.7152 981.4703,-271.0557 990.5357,-280.3802"/>
+<polygon fill="none" stroke="#ffffff" points="988.0618,-282.8565 997.5421,-287.5867 993.0808,-277.977 988.0618,-282.8565"/>
+</g>
+<!-- CloudProvider -->
+<g id="node68" class="node">
+<title>CloudProvider</title>
+<g id="a_node68"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="788.8811,-324 690.0067,-324 690.0067,-288 788.8811,-288 788.8811,-324"/>
+<text text-anchor="middle" x="739.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">CloudProvider</text>
+</a>
+</g>
+</g>
+<!-- DefaultInstance&#45;&gt;CloudProvider -->
+<g id="edge85" class="edge">
+<title>DefaultInstance&#45;&gt;CloudProvider</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M893.7273,-252.0757C864.6907,-262.2244 828.3537,-274.9247 798.2388,-285.4503"/>
+<polygon fill="none" stroke="#ffffff" points="796.9822,-282.1818 788.697,-288.7853 799.2919,-288.7898 796.9822,-282.1818"/>
+</g>
+<!-- DefaultInstance&#45;&gt;Type -->
+<g id="edge86" class="edge">
+<title>DefaultInstance&#45;&gt;Type</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M893.3102,-237.0674C824.1327,-242.351 707.6595,-255.8793 681.4439,-288 671.3271,-300.3956 670.7855,-312.0669 681.4439,-324 726.9223,-374.9174 915.9082,-340.674 998.1997,-360.7174"/>
+<polygon fill="none" stroke="#ffffff" points="997.3435,-364.113 1007.9217,-363.5188 999.2818,-357.3867 997.3435,-364.113"/>
+</g>
+<!-- CloudDefaultInstance -->
+<g id="node70" class="node">
+<title>CloudDefaultInstance</title>
+<g id="a_node70"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="945.7884,-324 807.0994,-324 807.0994,-288 945.7884,-288 945.7884,-324"/>
+<text text-anchor="middle" x="876.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">CloudDefaultInstance</text>
+</a>
+</g>
+</g>
+<!-- DefaultInstance&#45;&gt;CloudDefaultInstance -->
+<g id="edge87" class="edge">
+<title>DefaultInstance&#45;&gt;CloudDefaultInstance</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M928.0323,-252.1686C919.9229,-260.6306 910.1283,-270.8511 901.2619,-280.1029"/>
+<polygon fill="none" stroke="#ffffff" points="898.4821,-277.9451 894.0899,-287.5867 903.536,-282.7885 898.4821,-277.9451"/>
+</g>
+<!-- Value&#45;&gt;AbstractContent -->
+<g id="edge99" class="edge">
+<title>Value&#45;&gt;AbstractContent</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.2312,-234.7607C2262.1409,-238.6725 2815.7592,-257.4694 3009.6105,-288.1422"/>
+<polygon fill="none" stroke="#ffffff" points="3009.2298,-291.6266 3019.666,-289.8001 3010.3686,-284.7199 3009.2298,-291.6266"/>
+</g>
+<!-- Value&#45;&gt;XL10n -->
+<g id="edge95" class="edge">
+<title>Value&#45;&gt;XL10n</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.5133,-235.0797C2251.5638,-240.0805 2710.9536,-261.862 2769.4439,-288 2790.684,-297.4917 2785.9677,-315.0552 2807.4439,-324 2924.2098,-372.6328 3804.9382,-330.9723 3970.3728,-360.7906"/>
+<polygon fill="none" stroke="#ffffff" points="3970.1175,-364.314 3980.6256,-362.9611 3971.5673,-357.4658 3970.1175,-364.314"/>
+</g>
+<!-- Value&#45;&gt;C3X -->
+<g id="edge102" class="edge">
+<title>Value&#45;&gt;C3X</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.4226,-235.2979C1957.8783,-242.1264 1360.3963,-274.1024 1347.4439,-288 1336.5352,-299.7047 1336.36,-312.4611 1347.4439,-324 1394.3089,-372.7887 2459.3564,-377.4976 2657.7745,-377.9516"/>
+<polygon fill="none" stroke="#ffffff" points="2657.8273,-381.4516 2667.8346,-377.9726 2657.842,-374.4517 2657.8273,-381.4516"/>
+</g>
+<!-- Value&#45;&gt;Obj -->
+<g id="edge89" class="edge">
+<title>Value&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.4127,-234.9308C2264.8882,-239.7341 2833.0173,-262.3941 2948.8882,-289.1216"/>
+<polygon fill="none" stroke="#ffffff" points="2948.096,-292.5326 2958.6596,-291.7204 2949.8952,-285.7677 2948.096,-292.5326"/>
+</g>
+<!-- Value&#45;&gt;Native -->
+<g id="edge98" class="edge">
+<title>Value&#45;&gt;Native</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.3781,-235.1781C1961.2886,-241.2206 1391.1563,-269.1796 1314.4439,-288 1312.9811,-288.3589 1311.5049,-288.7665 1310.0256,-289.2135"/>
+<polygon fill="none" stroke="#ffffff" points="1308.5954,-286.0066 1300.3297,-292.6345 1310.9245,-292.6078 1308.5954,-286.0066"/>
+</g>
+<!-- MetadataRepository -->
+<g id="node74" class="node">
+<title>MetadataRepository</title>
+<g id="a_node74"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1623.9666,-324 1494.9212,-324 1494.9212,-288 1623.9666,-288 1623.9666,-324"/>
+<text text-anchor="middle" x="1559.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">MetadataRepository</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;MetadataRepository -->
+<g id="edge90" class="edge">
+<title>Value&#45;&gt;MetadataRepository</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.4977,-235.6512C2018.3188,-240.5382 1813.1356,-256.4875 1634.0846,-287.8172"/>
+<polygon fill="none" stroke="#ffffff" points="1633.4658,-284.3722 1624.2291,-289.5621 1634.6862,-291.265 1633.4658,-284.3722"/>
+</g>
+<!-- Pair -->
+<g id="node75" class="node">
+<title>Pair</title>
+<g id="a_node75"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1684.9439,-324 1641.9439,-324 1641.9439,-288 1684.9439,-288 1684.9439,-324"/>
+<text text-anchor="middle" x="1663.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Pair</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;Pair -->
+<g id="edge91" class="edge">
+<title>Value&#45;&gt;Pair</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.6903,-235.8426C2013.0195,-241.6768 1784.9,-260.8087 1694.7609,-288.4147"/>
+<polygon fill="none" stroke="#ffffff" points="1693.6251,-285.1037 1685.2207,-291.5548 1695.8137,-291.7528 1693.6251,-285.1037"/>
+</g>
+<!-- File -->
+<g id="node76" class="node">
+<title>File</title>
+<g id="a_node76"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1745.9439,-324 1702.9439,-324 1702.9439,-288 1745.9439,-288 1745.9439,-324"/>
+<text text-anchor="middle" x="1724.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">File</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;File -->
+<g id="edge92" class="edge">
+<title>Value&#45;&gt;File</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.6164,-236.4627C2020.9599,-243.365 1833.7078,-263.7924 1756.0218,-288.2897"/>
+<polygon fill="none" stroke="#ffffff" points="1754.5835,-285.0818 1746.2413,-291.6131 1756.8357,-291.7096 1754.5835,-285.0818"/>
+</g>
+<!-- BytePushStream -->
+<g id="node77" class="node">
+<title>BytePushStream</title>
+<g id="a_node77"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1873.267,-324 1763.6208,-324 1763.6208,-288 1873.267,-288 1873.267,-324"/>
+<text text-anchor="middle" x="1818.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">BytePushStream</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;BytePushStream -->
+<g id="edge93" class="edge">
+<title>Value&#45;&gt;BytePushStream</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.4011,-239.4704C2047.5683,-248.4725 1963.9027,-267.26 1883.0557,-287.8977"/>
+<polygon fill="none" stroke="#ffffff" points="1882.0297,-284.5475 1873.2133,-290.4231 1883.7695,-291.3278 1882.0297,-284.5475"/>
+</g>
+<!-- ByteBuffer -->
+<g id="node78" class="node">
+<title>ByteBuffer</title>
+<g id="a_node78"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1969.9187,-324 1890.9691,-324 1890.9691,-288 1969.9187,-288 1969.9187,-324"/>
+<text text-anchor="middle" x="1930.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteBuffer</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;ByteBuffer -->
+<g id="edge94" class="edge">
+<title>Value&#45;&gt;ByteBuffer</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.3822,-243.8603C2060.4656,-254.8439 2014.647,-272.8709 1979.5309,-286.6871"/>
+<polygon fill="none" stroke="#ffffff" points="1977.9581,-283.5447 1969.9339,-290.4629 1980.521,-290.0586 1977.9581,-283.5447"/>
+</g>
+<!-- MetadataPackage -->
+<g id="node79" class="node">
+<title>MetadataPackage</title>
+<g id="a_node79"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2102.6694,-324 1988.2184,-324 1988.2184,-288 2102.6694,-288 2102.6694,-324"/>
+<text text-anchor="middle" x="2045.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">MetadataPackage</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;MetadataPackage -->
+<g id="edge96" class="edge">
+<title>Value&#45;&gt;MetadataPackage</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2096.2846,-252.1686C2088.2928,-260.6306 2078.6401,-270.8511 2069.9023,-280.1029"/>
+<polygon fill="none" stroke="#ffffff" points="2067.1559,-277.9134 2062.8342,-287.5867 2072.245,-282.7198 2067.1559,-277.9134"/>
+</g>
+<!-- FileOperationSpec -->
+<g id="node80" class="node">
+<title>FileOperationSpec</title>
+<g id="a_node80"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2241.9117,-324 2120.9761,-324 2120.9761,-288 2241.9117,-288 2241.9117,-324"/>
+<text text-anchor="middle" x="2181.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">FileOperationSpec</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;FileOperationSpec -->
+<g id="edge97" class="edge">
+<title>Value&#45;&gt;FileOperationSpec</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2130.6032,-252.1686C2138.595,-260.6306 2148.2477,-270.8511 2156.9855,-280.1029"/>
+<polygon fill="none" stroke="#ffffff" points="2154.6428,-282.7198 2164.0536,-287.5867 2159.7319,-277.9134 2154.6428,-282.7198"/>
+</g>
+<!-- MetadataFile -->
+<g id="node81" class="node">
+<title>MetadataFile</title>
+<g id="a_node81"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2349.3066,-324 2259.5812,-324 2259.5812,-288 2349.3066,-288 2349.3066,-324"/>
+<text text-anchor="middle" x="2304.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">MetadataFile</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;MetadataFile -->
+<g id="edge100" class="edge">
+<title>Value&#45;&gt;MetadataFile</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.4138,-243.4127C2166.5395,-254.0151 2213.1056,-271.5688 2249.7761,-285.3923"/>
+<polygon fill="none" stroke="#ffffff" points="2248.7578,-288.7488 2259.3497,-289.0011 2251.227,-282.1987 2248.7578,-288.7488"/>
+</g>
+<!-- MetadataPath -->
+<g id="node82" class="node">
+<title>MetadataPath</title>
+<g id="a_node82"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2459.9159,-324 2366.9719,-324 2366.9719,-288 2459.9159,-288 2459.9159,-324"/>
+<text text-anchor="middle" x="2413.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">MetadataPath</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;MetadataPath -->
+<g id="edge101" class="edge">
+<title>Value&#45;&gt;MetadataPath</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.3332,-238.6363C2181.1796,-246.7986 2271.7687,-264.8482 2356.9145,-287.6995"/>
+<polygon fill="none" stroke="#ffffff" points="2356.1641,-291.1223 2366.7316,-290.3626 2357.9968,-284.3665 2356.1641,-291.1223"/>
+</g>
+<!-- ByteUtil -->
+<g id="node83" class="node">
+<title>ByteUtil</title>
+<g id="a_node83"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2542.6645,-324 2478.2233,-324 2478.2233,-288 2542.6645,-288 2542.6645,-324"/>
+<text text-anchor="middle" x="2510.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteUtil</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;ByteUtil -->
+<g id="edge103" class="edge">
+<title>Value&#45;&gt;ByteUtil</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.4373,-235.6142C2197.0738,-239.8706 2347.6473,-253.5358 2468.4439,-288 2468.544,-288.0286 2468.6442,-288.0573 2468.7445,-288.0862"/>
+<polygon fill="none" stroke="#ffffff" points="2467.588,-291.3901 2478.1813,-291.2109 2469.7884,-284.7449 2467.588,-291.3901"/>
+</g>
+<!-- Charset -->
+<g id="node84" class="node">
+<title>Charset</title>
+<g id="a_node84"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2618.706,-324 2560.1818,-324 2560.1818,-288 2618.706,-288 2618.706,-324"/>
+<text text-anchor="middle" x="2589.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Charset</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;Charset -->
+<g id="edge104" class="edge">
+<title>Value&#45;&gt;Charset</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.3033,-236.0146C2216.1128,-242.4784 2454.9988,-263.563 2550.1162,-288.2115"/>
+<polygon fill="none" stroke="#ffffff" points="2549.3554,-291.6324 2559.9263,-290.9196 2551.2181,-284.8847 2549.3554,-291.6324"/>
+</g>
+<!-- C3 -->
+<g id="node85" class="node">
+<title>C3</title>
+<g id="a_node85"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3962.9439,-396 3919.9439,-396 3919.9439,-360 3962.9439,-360 3962.9439,-396"/>
+<text text-anchor="middle" x="3941.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">C3</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;C3 -->
+<g id="edge105" class="edge">
+<title>Value&#45;&gt;C3</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.584,-235.205C1974.5564,-240.849 1506.2305,-265.3494 1485.4439,-288 1474.6257,-299.7884 1474.2145,-312.6026 1485.4439,-324 1531.5253,-370.7705 3729.538,-343.4737 3909.7962,-362.0278"/>
+<polygon fill="none" stroke="#ffffff" points="3909.2823,-365.4899 3919.7024,-363.5734 3910.3615,-358.5736 3909.2823,-365.4899"/>
+</g>
+<!-- MetadataFileValue -->
+<g id="node86" class="node">
+<title>MetadataFileValue</title>
+<g id="a_node86"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="2760.2332,-324 2636.6546,-324 2636.6546,-288 2760.2332,-288 2760.2332,-324"/>
+<text text-anchor="middle" x="2698.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">MetadataFileValue</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;MetadataFileValue -->
+<g id="edge106" class="edge">
+<title>Value&#45;&gt;MetadataFileValue</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2138.2294,-235.3379C2211.466,-239.5568 2433.3012,-254.2468 2626.5486,-287.9878"/>
+<polygon fill="none" stroke="#ffffff" points="2626.1451,-291.4707 2636.6017,-289.7651 2627.3637,-284.5776 2626.1451,-291.4707"/>
+</g>
+<!-- ByteStream -->
+<g id="node87" class="node">
+<title>ByteStream</title>
+<g id="a_node87"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="1438.5394,-324 1356.3484,-324 1356.3484,-288 1438.5394,-288 1438.5394,-324"/>
+<text text-anchor="middle" x="1397.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteStream</text>
+</a>
+</g>
+</g>
+<!-- Value&#45;&gt;ByteStream -->
+<g id="edge107" class="edge">
+<title>Value&#45;&gt;ByteStream</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M2088.5472,-235.25C1983.7167,-240.6337 1577.8698,-262.7185 1452.4439,-288 1451.1697,-288.2568 1449.8838,-288.5337 1448.5907,-288.8279"/>
+<polygon fill="none" stroke="#ffffff" points="1447.4311,-285.5116 1438.6088,-291.3782 1449.164,-292.2938 1447.4311,-285.5116"/>
+</g>
+<!-- ObjCollector -->
+<g id="node89" class="node">
+<title>ObjCollector</title>
+<g id="a_node89"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5135.0394,-252 5045.8484,-252 5045.8484,-216 5135.0394,-216 5135.0394,-252"/>
+<text text-anchor="middle" x="5090.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjCollector</text>
+</a>
+</g>
+</g>
+<!-- ObjCollector&#45;&gt;ObjValueReceiver -->
+<g id="edge108" class="edge">
+<title>ObjCollector&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5135.4712,-251.063C5161.6809,-260.9951 5194.9849,-273.6155 5223.0611,-284.2549"/>
+<polygon fill="none" stroke="#ffffff" points="5222.1623,-287.6572 5232.7537,-287.9279 5224.6429,-281.1114 5222.1623,-287.6572"/>
+</g>
+<!-- CsvObjValueReceiverGreenButtonFormat -->
+<g id="node90" class="node">
+<title>CsvObjValueReceiverGreenButtonFormat</title>
+<g id="a_node90"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5407.6483,-252 5153.2395,-252 5153.2395,-216 5407.6483,-216 5407.6483,-252"/>
+<text text-anchor="middle" x="5280.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">CsvObjValueReceiverGreenButtonFormat</text>
+</a>
+</g>
+</g>
+<!-- CsvObjValueReceiverGreenButtonFormat&#45;&gt;ObjValueReceiver -->
+<g id="edge109" class="edge">
+<title>CsvObjValueReceiverGreenButtonFormat&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5280.4439,-252.1686C5280.4439,-259.869 5280.4439,-269.0257 5280.4439,-277.5834"/>
+<polygon fill="none" stroke="#ffffff" points="5276.944,-277.5867 5280.4439,-287.5867 5283.944,-277.5868 5276.944,-277.5867"/>
+</g>
+<!-- NamedTupleMutator -->
+<g id="node91" class="node">
+<title>NamedTupleMutator</title>
+<g id="a_node91"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="598.6292,-396 464.2586,-396 464.2586,-360 598.6292,-360 598.6292,-396"/>
+<text text-anchor="middle" x="531.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">NamedTupleMutator</text>
+</a>
+</g>
+</g>
+<!-- ObjValueSplitter -->
+<g id="node92" class="node">
+<title>ObjValueSplitter</title>
+<g id="a_node92"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5692.0883,-36 5580.7995,-36 5580.7995,0 5692.0883,0 5692.0883,-36"/>
+<text text-anchor="middle" x="5636.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjValueSplitter</text>
+</a>
+</g>
+</g>
+<!-- ObjGeneratorOptions -->
+<g id="node93" class="node">
+<title>ObjGeneratorOptions</title>
+<g id="a_node93"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5847.236,-36 5709.6518,-36 5709.6518,0 5847.236,0 5847.236,-36"/>
+<text text-anchor="middle" x="5778.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjGeneratorOptions</text>
+</a>
+</g>
+</g>
+<!-- FilteredTransformedRefIterator -->
+<g id="node94" class="node">
+<title>FilteredTransformedRefIterator</title>
+<g id="a_node94"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="4930.1911,-36 4736.6967,-36 4736.6967,0 4930.1911,0 4930.1911,-36"/>
+<text text-anchor="middle" x="4833.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">FilteredTransformedRefIterator</text>
+</a>
+</g>
+</g>
+<!-- FilteredTransformedRefIterator&#45;&gt;RefIterator -->
+<g id="edge110" class="edge">
+<title>FilteredTransformedRefIterator&#45;&gt;RefIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4851.1547,-36.3483C4859.3381,-46.1054 4868.1743,-58.7959 4872.4439,-72 4879.0623,-92.468 4873.6947,-116.3769 4867.1421,-134.4056"/>
+<polygon fill="none" stroke="#ffffff" points="4863.8667,-133.1709 4863.4484,-143.7575 4870.3773,-135.7424 4863.8667,-133.1709"/>
+</g>
+<!-- FilteredTransformedIterator -->
+<g id="node95" class="node">
+<title>FilteredTransformedIterator</title>
+<g id="a_node95"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4862.9791,-108 4689.9087,-108 4689.9087,-72 4862.9791,-72 4862.9791,-108"/>
+<text text-anchor="middle" x="4776.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">FilteredTransformedIterator</text>
+</a>
+</g>
+</g>
+<!-- FilteredTransformedRefIterator&#45;&gt;FilteredTransformedIterator -->
+<g id="edge111" class="edge">
+<title>FilteredTransformedRefIterator&#45;&gt;FilteredTransformedIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4819.0604,-36.1686C4812.4953,-44.4614 4804.5932,-54.443 4797.3861,-63.5467"/>
+<polygon fill="none" stroke="#ffffff" points="4794.484,-61.5738 4791.0211,-71.5867 4799.9723,-65.9187 4794.484,-61.5738"/>
+</g>
+<!-- ObjValueIteratorWrapper -->
+<g id="node96" class="node">
+<title>ObjValueIteratorWrapper</title>
+<g id="a_node96"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4797.5252,-180 4637.3626,-180 4637.3626,-144 4797.5252,-144 4797.5252,-180"/>
+<text text-anchor="middle" x="4717.4439" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjValueIteratorWrapper</text>
+</a>
+</g>
+</g>
+<!-- FilteredTransformedIterator&#45;&gt;ObjValueIteratorWrapper -->
+<g id="edge112" class="edge">
+<title>FilteredTransformedIterator&#45;&gt;ObjValueIteratorWrapper</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4761.5557,-108.1686C4754.6909,-116.546 4746.4138,-126.6469 4738.8928,-135.8251"/>
+<polygon fill="none" stroke="#ffffff" points="4736.1636,-133.6335 4732.5325,-143.5867 4741.578,-138.0703 4736.1636,-133.6335"/>
+</g>
+<!-- ObjValueIteratorWrapper&#45;&gt;ObjValueIteratorBase -->
+<g id="edge113" class="edge">
+<title>ObjValueIteratorWrapper&#45;&gt;ObjValueIteratorBase</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4639.869,-180.0757C4593.387,-190.9065 4534.4332,-204.6433 4487.6617,-215.5415"/>
+<polygon fill="none" stroke="#ffffff" points="4486.8197,-212.1438 4477.8749,-217.8219 4488.4083,-218.9612 4486.8197,-212.1438"/>
+</g>
+<!-- XmlSerDeser -->
+<g id="node97" class="node">
+<title>XmlSerDeser</title>
+<g id="a_node97"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="3871.6307,-252 3779.2571,-252 3779.2571,-216 3871.6307,-216 3871.6307,-252"/>
+<text text-anchor="middle" x="3825.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">XmlSerDeser</text>
+</a>
+</g>
+</g>
+<!-- XmlSerDeser&#45;&gt;AbstractContent -->
+<g id="edge119" class="edge">
+<title>XmlSerDeser&#45;&gt;AbstractContent</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3779.1549,-250.085C3776.2272,-250.8109 3773.307,-251.4597 3770.4439,-252 3496.3566,-303.7194 3416.5895,-242.4138 3137.2418,-288.1164"/>
+<polygon fill="none" stroke="#ffffff" points="3136.5078,-284.6904 3127.2197,-289.7877 3137.6593,-291.5951 3136.5078,-284.6904"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;Pipeline -->
+<g id="edge123" class="edge">
+<title>XmlSerDeser&#45;&gt;Pipeline</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3808.537,-252.1686C3800.6626,-260.6306 3791.1519,-270.8511 3782.5426,-280.1029"/>
+<polygon fill="none" stroke="#ffffff" points="3779.8286,-277.8817 3775.5785,-287.5867 3784.9531,-282.6503 3779.8286,-277.8817"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;ContentType -->
+<g id="edge124" class="edge">
+<title>XmlSerDeser&#45;&gt;ContentType</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3779.2708,-249.252C3776.2875,-250.1939 3773.3258,-251.1171 3770.4439,-252 3717.6944,-268.161 3701.7011,-270.4215 3645.9131,-287.6089"/>
+<polygon fill="none" stroke="#ffffff" points="3644.7238,-284.3133 3636.2128,-290.6231 3646.801,-290.9981 3644.7238,-284.3133"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;Obj -->
+<g id="edge115" class="edge">
+<title>XmlSerDeser&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3779.3288,-247.6684C3773.338,-249.3944 3767.2739,-250.9282 3761.4439,-252 3598.5595,-281.9446 3180.8593,-240.7774 3011.7264,-285.1047"/>
+<polygon fill="none" stroke="#ffffff" points="3010.6013,-281.7852 3001.9188,-287.8568 3012.4925,-288.5249 3010.6013,-281.7852"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;Obj -->
+<g id="edge126" class="edge">
+<title>XmlSerDeser&#45;&gt;Obj</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3778.956,-252.0894C3612.3091,-282.486 3181.1154,-239.0719 3019.4439,-288 3016.5717,-288.8693 3013.6907,-290.0734 3010.8466,-291.4509"/>
+<polygon fill="none" stroke="#ffffff" points="3009.0902,-288.4214 3001.9445,-296.2438 3012.4087,-294.5848 3009.0902,-288.4214"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;Stream -->
+<g id="edge125" class="edge">
+<title>XmlSerDeser&#45;&gt;Stream</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3789.1066,-252.1686C3767.3815,-263.0312 3739.8608,-276.7916 3718.0824,-287.6808"/>
+<polygon fill="none" stroke="#ffffff" points="3716.513,-284.5523 3709.134,-292.155 3719.6435,-290.8133 3716.513,-284.5523"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;SerDeser -->
+<g id="edge120" class="edge">
+<title>XmlSerDeser&#45;&gt;SerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3779.1492,-250.0554C3776.223,-250.7887 3773.3046,-251.4472 3770.4439,-252 3533.6435,-297.7583 3461.2128,-232.841 3223.4825,-287.9257"/>
+<polygon fill="none" stroke="#ffffff" points="3222.4267,-284.5788 3213.5006,-290.2862 3224.0376,-291.3909 3222.4267,-284.5788"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;FileObjsOperSpec -->
+<g id="edge127" class="edge">
+<title>XmlSerDeser&#45;&gt;FileObjsOperSpec</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3779.1347,-249.9824C3776.212,-250.7337 3773.2984,-251.4162 3770.4439,-252 3593.6156,-288.1619 3541.3897,-257.5163 3360.5062,-287.8007"/>
+<polygon fill="none" stroke="#ffffff" points="3359.6547,-284.3955 3350.3899,-289.5349 3360.8375,-291.2949 3359.6547,-284.3955"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;ObjValueIterator -->
+<g id="edge121" class="edge">
+<title>XmlSerDeser&#45;&gt;ObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3871.7235,-234.7158C3979.5707,-237.0281 4255.9226,-246.6732 4494.6725,-288.0653"/>
+<polygon fill="none" stroke="#ffffff" points="4494.1238,-291.5225 4504.5785,-289.805 4495.3346,-284.628 4494.1238,-291.5225"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;ObjValueReceiver -->
+<g id="edge116" class="edge">
+<title>XmlSerDeser&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3871.7985,-236.2938C4083.0028,-246.7452 4954.8738,-289.8893 5210.0075,-302.5145"/>
+<polygon fill="none" stroke="#ffffff" points="5210.0973,-306.0231 5220.2581,-303.0217 5210.4434,-299.0317 5210.0973,-306.0231"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;NotImplementedException -->
+<g id="edge118" class="edge">
+<title>XmlSerDeser&#45;&gt;NotImplementedException</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3871.5537,-245.4086C3914.9899,-256.1557 3981.0629,-272.5037 4033.6349,-285.5112"/>
+<polygon fill="none" stroke="#ffffff" points="4033.0737,-288.9778 4043.6217,-287.9821 4034.755,-282.1827 4033.0737,-288.9778"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;C3RuntimeException -->
+<g id="edge128" class="edge">
+<title>XmlSerDeser&#45;&gt;C3RuntimeException</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3855.9773,-252.1686C3871.454,-261.3779 3890.4308,-272.6699 3907.0002,-282.5294"/>
+<polygon fill="none" stroke="#ffffff" points="3905.5368,-285.7313 3915.9203,-287.8372 3909.1163,-279.7157 3905.5368,-285.7313"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;Writer -->
+<g id="edge122" class="edge">
+<title>XmlSerDeser&#45;&gt;Writer</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3827.4626,-252.1686C3828.3182,-259.869 3829.3356,-269.0257 3830.2865,-277.5834"/>
+<polygon fill="none" stroke="#ffffff" points="3826.815,-278.0344 3831.398,-287.5867 3833.7722,-277.2614 3826.815,-278.0344"/>
+</g>
+<!-- XmlSerDeser&#45;&gt;XmlSerDeser -->
+<g id="edge117" class="edge">
+<title>XmlSerDeser&#45;&gt;XmlSerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3871.8233,-220.8634C3882.0726,-222.0977 3889.5372,-226.4766 3889.5372,-234 3889.5372,-238.8197 3886.4737,-242.3489 3881.5772,-244.5875"/>
+<polygon fill="none" stroke="#ffffff" points="3880.6133,-241.2218 3871.8233,-247.1366 3882.3833,-247.9943 3880.6133,-241.2218"/>
+</g>
+<!-- GreenButtonXmlSerDeser -->
+<g id="node98" class="node">
+<title>GreenButtonXmlSerDeser</title>
+<g id="a_node98"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4382.4455,-324 4218.4423,-324 4218.4423,-288 4382.4455,-288 4382.4455,-324"/>
+<text text-anchor="middle" x="4300.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">GreenButtonXmlSerDeser</text>
+</a>
+</g>
+</g>
+<!-- XmlSerDeser&#45;&gt;GreenButtonXmlSerDeser -->
+<g id="edge114" class="edge">
+<title>XmlSerDeser&#45;&gt;GreenButtonXmlSerDeser</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3871.6767,-239.6583C3942.1051,-248.4628 4080.7,-266.5141 4208.2007,-287.8347"/>
+<polygon fill="none" stroke="#ffffff" points="4207.6995,-291.2995 4218.1417,-289.5076 4208.8612,-284.3965 4207.6995,-291.2995"/>
+</g>
+<!-- ByteStreamWriter -->
+<g id="node99" class="node">
+<title>ByteStreamWriter</title>
+<g id="a_node99"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5983.5715,-36 5865.3163,-36 5865.3163,0 5983.5715,0 5983.5715,-36"/>
+<text text-anchor="middle" x="5924.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteStreamWriter</text>
+</a>
+</g>
+</g>
+<!-- TokenCodes -->
+<g id="node100" class="node">
+<title>TokenCodes</title>
+<g id="a_node100"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="6036.7072,-108 5950.1806,-108 5950.1806,-72 6036.7072,-72 6036.7072,-108"/>
+<text text-anchor="middle" x="5993.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">TokenCodes</text>
+</a>
+</g>
+</g>
+<!-- ByteStreamWriter&#45;&gt;TokenCodes -->
+<g id="edge129" class="edge">
+<title>ByteStreamWriter&#45;&gt;TokenCodes</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5941.8555,-36.1686C5949.9649,-44.6306 5959.7595,-54.8511 5968.6259,-64.1029"/>
+<polygon fill="none" stroke="#ffffff" points="5966.3518,-66.7885 5975.7979,-71.5867 5971.4057,-61.9451 5966.3518,-66.7885"/>
+</g>
+<!-- XmlObjValueIterator -->
+<g id="node101" class="node">
+<title>XmlObjValueIterator</title>
+<g id="a_node101"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="4671.4484,-108 4535.4394,-108 4535.4394,-72 4671.4484,-72 4671.4484,-108"/>
+<text text-anchor="middle" x="4603.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">XmlObjValueIterator</text>
+</a>
+</g>
+</g>
+<!-- XmlObjValueIterator&#45;&gt;AbstractDepthFirstObjValueIterator -->
+<g id="edge130" class="edge">
+<title>XmlObjValueIterator&#45;&gt;AbstractDepthFirstObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4536.9153,-108.0757C4499.9007,-118.1325 4453.6643,-130.6948 4415.1329,-141.1637"/>
+<polygon fill="none" stroke="#ffffff" points="4413.7324,-137.9173 4404.9999,-143.9169 4415.5678,-144.6724 4413.7324,-137.9173"/>
+</g>
+<!-- XmlObjValueIterator&#45;&gt;DepthFirstParentIterator -->
+<g id="edge131" class="edge">
+<title>XmlObjValueIterator&#45;&gt;DepthFirstParentIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4588.051,-108.1686C4580.9535,-116.546 4572.3959,-126.6469 4564.6199,-135.8251"/>
+<polygon fill="none" stroke="#ffffff" points="4561.8378,-133.6944 4558.044,-143.5867 4567.1787,-138.2193 4561.8378,-133.6944"/>
+</g>
+<!-- XmlOut -->
+<g id="node102" class="node">
+<title>XmlOut</title>
+<g id="a_node102"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="6203.329,-36 6141.5588,-36 6141.5588,0 6203.329,0 6203.329,-36"/>
+<text text-anchor="middle" x="6172.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">XmlOut</text>
+</a>
+</g>
+</g>
+<!-- MappIterator -->
+<g id="node103" class="node">
+<title>MappIterator</title>
+<g id="a_node103"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4826.2954,-324 4736.5924,-324 4736.5924,-288 4826.2954,-288 4826.2954,-324"/>
+<text text-anchor="middle" x="4781.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">MappIterator</text>
+</a>
+</g>
+</g>
+<!-- MappIterator&#45;&gt;ParentIterator -->
+<g id="edge133" class="edge">
+<title>MappIterator&#45;&gt;ParentIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4754.948,-324.1686C4741.7665,-333.2073 4725.6592,-344.2524 4711.4728,-353.9802"/>
+<polygon fill="none" stroke="#ffffff" points="4709.1993,-351.2953 4702.9314,-359.8372 4713.158,-357.0684 4709.1993,-351.2953"/>
+</g>
+<!-- MappIterator&#45;&gt;ChildIterator -->
+<g id="edge132" class="edge">
+<title>MappIterator&#45;&gt;ChildIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4782.4533,-324.1686C4782.8811,-331.869 4783.3898,-341.0257 4783.8652,-349.5834"/>
+<polygon fill="none" stroke="#ffffff" points="4780.3715,-349.7963 4784.4209,-359.5867 4787.3608,-349.408 4780.3715,-349.7963"/>
+</g>
+<!-- ByteObjValueReceiver -->
+<g id="node104" class="node">
+<title>ByteObjValueReceiver</title>
+<g id="a_node104"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5572.556,-252 5426.3318,-252 5426.3318,-216 5572.556,-216 5572.556,-252"/>
+<text text-anchor="middle" x="5499.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteObjValueReceiver</text>
+</a>
+</g>
+</g>
+<!-- ByteObjValueReceiver&#45;&gt;ObjValueReceiver -->
+<g id="edge134" class="edge">
+<title>ByteObjValueReceiver&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5444.4636,-252.0757C5414.2647,-262.0041 5376.6381,-274.3745 5345.0435,-284.7618"/>
+<polygon fill="none" stroke="#ffffff" points="5343.8534,-281.4687 5335.4468,-287.9169 5346.0397,-288.1185 5343.8534,-281.4687"/>
+</g>
+<!-- ByteStreamLogger -->
+<g id="node105" class="node">
+<title>ByteStreamLogger</title>
+<g id="a_node105"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="6343.468,-36 6221.4198,-36 6221.4198,0 6343.468,0 6343.468,-36"/>
+<text text-anchor="middle" x="6282.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteStreamLogger</text>
+</a>
+</g>
+</g>
+<!-- AbstractArryOrMappIterator -->
+<g id="node106" class="node">
+<title>AbstractArryOrMappIterator</title>
+<g id="a_node106"><a xlink:title="AbstractClass">
+<polygon fill="#22d223" stroke="#edad56" points="4811.9131,-252 4632.9747,-252 4632.9747,-216 4811.9131,-216 4811.9131,-252"/>
+<text text-anchor="middle" x="4722.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">AbstractArryOrMappIterator</text>
+</a>
+</g>
+</g>
+<!-- AbstractArryOrMappIterator&#45;&gt;ArryIterator -->
+<g id="edge135" class="edge">
+<title>AbstractArryOrMappIterator&#45;&gt;ArryIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4710.8362,-252.1686C4705.6461,-260.2921 4699.4207,-270.0363 4693.7014,-278.9882"/>
+<polygon fill="none" stroke="#ffffff" points="4690.6424,-277.2754 4688.2079,-287.5867 4696.5413,-281.0441 4690.6424,-277.2754"/>
+</g>
+<!-- AbstractArryOrMappIterator&#45;&gt;MappIterator -->
+<g id="edge136" class="edge">
+<title>AbstractArryOrMappIterator&#45;&gt;MappIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4737.3321,-252.1686C4744.1969,-260.546 4752.474,-270.6469 4759.995,-279.8251"/>
+<polygon fill="none" stroke="#ffffff" points="4757.3098,-282.0703 4766.3553,-287.5867 4762.7242,-277.6335 4757.3098,-282.0703"/>
+</g>
+<!-- ObjValueGenerator -->
+<g id="node107" class="node">
+<title>ObjValueGenerator</title>
+<g id="a_node107"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="3910.8303,-108 3784.0575,-108 3784.0575,-72 3910.8303,-72 3910.8303,-108"/>
+<text text-anchor="middle" x="3847.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">ObjValueGenerator</text>
+</a>
+</g>
+</g>
+<!-- ObjValueGenerator&#45;&gt;AbstractObjValueIterator -->
+<g id="edge137" class="edge">
+<title>ObjValueGenerator&#45;&gt;AbstractObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M3884.0335,-108.1686C3903.1678,-117.6698 3926.7668,-129.3879 3947.0561,-139.4626"/>
+<polygon fill="none" stroke="#ffffff" points="3945.6042,-142.6494 3956.1174,-143.962 3948.7174,-136.3797 3945.6042,-142.6494"/>
+</g>
+<!-- JsonPort -->
+<g id="node108" class="node">
+<title>JsonPort</title>
+<g id="a_node108"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="6425.6673,-36 6361.2205,-36 6361.2205,0 6425.6673,0 6425.6673,-36"/>
+<text text-anchor="middle" x="6393.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">JsonPort</text>
+</a>
+</g>
+</g>
+<!-- ByteStreamReader -->
+<g id="node109" class="node">
+<title>ByteStreamReader</title>
+<g id="a_node109"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="6123.1806,-36 6001.7072,-36 6001.7072,0 6123.1806,0 6123.1806,-36"/>
+<text text-anchor="middle" x="6062.4439" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteStreamReader</text>
+</a>
+</g>
+</g>
+<!-- ByteStreamReader&#45;&gt;TokenCodes -->
+<g id="edge138" class="edge">
+<title>ByteStreamReader&#45;&gt;TokenCodes</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M6045.0323,-36.1686C6036.9229,-44.6306 6027.1283,-54.8511 6018.2619,-64.1029"/>
+<polygon fill="none" stroke="#ffffff" points="6015.4821,-61.9451 6011.0899,-71.5867 6020.536,-66.7885 6015.4821,-61.9451"/>
+</g>
+<!-- CsvObjValueReceiver -->
+<g id="node110" class="node">
+<title>CsvObjValueReceiver</title>
+<g id="a_node110"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="5732.3949,-252 5590.4929,-252 5590.4929,-216 5732.3949,-216 5732.3949,-252"/>
+<text text-anchor="middle" x="5661.4439" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">CsvObjValueReceiver</text>
+</a>
+</g>
+</g>
+<!-- CsvObjValueReceiver&#45;&gt;ObjValueReceiver -->
+<g id="edge139" class="edge">
+<title>CsvObjValueReceiver&#45;&gt;ObjValueReceiver</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M5590.3785,-250.1594C5587.3621,-250.7916 5584.3742,-251.4078 5581.4439,-252 5502.5721,-267.94 5411.5867,-283.9334 5350.4768,-294.3298"/>
+<polygon fill="none" stroke="#ffffff" points="5349.8294,-290.8895 5340.5558,-296.0131 5351.0004,-297.7909 5349.8294,-290.8895"/>
+</g>
+<!-- Values -->
+<g id="node111" class="node">
+<title>Values</title>
+<g id="a_node111"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="558.8151,-324 504.0727,-324 504.0727,-288 558.8151,-288 558.8151,-324"/>
+<text text-anchor="middle" x="531.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Values</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;Arry -->
+<g id="edge145" class="edge">
+<title>Values&#45;&gt;Arry</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M559.0372,-309.8241C589.089,-313.8688 638.5989,-320.1823 681.4439,-324 1031.0448,-355.1513 1456.649,-372.4285 1574.7468,-376.8526"/>
+<polygon fill="none" stroke="#ffffff" points="1574.7736,-380.3559 1584.8966,-377.2294 1575.0334,-373.3607 1574.7736,-380.3559"/>
+</g>
+<!-- Values&#45;&gt;C3X -->
+<g id="edge142" class="edge">
+<title>Values&#45;&gt;C3X</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M559.016,-310.0851C589.0497,-314.353 638.5442,-320.856 681.4439,-324 1089.0897,-353.8756 2433.8025,-374.3151 2657.7079,-377.5501"/>
+<polygon fill="none" stroke="#ffffff" points="2657.7486,-381.0509 2667.7979,-377.6951 2657.8492,-374.0516 2657.7486,-381.0509"/>
+</g>
+<!-- Values&#45;&gt;BasicNamedTuple -->
+<g id="edge151" class="edge">
+<title>Values&#45;&gt;BasicNamedTuple</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M503.8292,-319.7121C483.5181,-329.7976 455.4582,-343.7308 431.8658,-355.4457"/>
+<polygon fill="none" stroke="#ffffff" points="430.1354,-352.3971 422.7354,-359.9794 433.2486,-358.6668 430.1354,-352.3971"/>
+</g>
+<!-- Values&#45;&gt;NamedTupleMutator -->
+<g id="edge140" class="edge">
+<title>Values&#45;&gt;NamedTupleMutator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M531.4439,-324.1686C531.4439,-331.869 531.4439,-341.0257 531.4439,-349.5834"/>
+<polygon fill="none" stroke="#ffffff" points="527.944,-349.5867 531.4439,-359.5867 534.944,-349.5868 527.944,-349.5867"/>
+</g>
+<!-- Rnd -->
+<g id="node112" class="node">
+<title>Rnd</title>
+<g id="a_node112"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="659.9439,-396 616.9439,-396 616.9439,-360 659.9439,-360 659.9439,-396"/>
+<text text-anchor="middle" x="638.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Rnd</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;Rnd -->
+<g id="edge141" class="edge">
+<title>Values&#45;&gt;Rnd</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M558.4445,-324.1686C573.6976,-334.4324 592.7953,-347.2832 608.5056,-357.8546"/>
+<polygon fill="none" stroke="#ffffff" points="606.5886,-360.7832 616.8392,-363.4622 610.4965,-354.9756 606.5886,-360.7832"/>
+</g>
+<!-- Enum -->
+<g id="node113" class="node">
+<title>Enum</title>
+<g id="a_node113"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="727.3891,-396 677.4987,-396 677.4987,-360 727.3891,-360 727.3891,-396"/>
+<text text-anchor="middle" x="702.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Enum</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;Enum -->
+<g id="edge143" class="edge">
+<title>Values&#45;&gt;Enum</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M559.1449,-318.4074C563.5756,-320.3208 568.1232,-322.243 572.4439,-324 611.9345,-340.0591 625.1875,-341.213 668.0687,-360.0998"/>
+<polygon fill="none" stroke="#ffffff" points="666.8145,-363.373 677.3716,-364.2665 669.6759,-356.9845 666.8145,-363.373"/>
+</g>
+<!-- RndResult -->
+<g id="node114" class="node">
+<title>RndResult</title>
+<g id="a_node114"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="820.0576,-396 744.8302,-396 744.8302,-360 820.0576,-360 820.0576,-396"/>
+<text text-anchor="middle" x="782.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">RndResult</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;RndResult -->
+<g id="edge144" class="edge">
+<title>Values&#45;&gt;RndResult</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M558.944,-318.9568C563.4007,-320.7992 568.0089,-322.5554 572.4439,-324 640.3502,-346.1187 663.0829,-339.0321 734.7476,-359.7294"/>
+<polygon fill="none" stroke="#ffffff" points="734.122,-363.1948 744.7048,-362.6904 736.1172,-356.4851 734.122,-363.1948"/>
+</g>
+<!-- Persistable -->
+<g id="node115" class="node">
+<title>Persistable</title>
+<g id="a_node115"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="914.5927,-396 838.2951,-396 838.2951,-360 914.5927,-360 914.5927,-396"/>
+<text text-anchor="middle" x="876.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Persistable</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;Persistable -->
+<g id="edge146" class="edge">
+<title>Values&#45;&gt;Persistable</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M558.8521,-319.2586C563.3207,-321.062 567.9567,-322.727 572.4439,-324 680.2602,-354.5868 715.755,-332.5212 828.1715,-360.01"/>
+<polygon fill="none" stroke="#ffffff" points="827.648,-363.4876 838.2006,-362.5423 829.3618,-356.7006 827.648,-363.4876"/>
+</g>
+<!-- RndInt -->
+<g id="node116" class="node">
+<title>RndInt</title>
+<g id="a_node116"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="54.8318,-396 .056,-396 .056,-360 54.8318,-360 54.8318,-396"/>
+<text text-anchor="middle" x="27.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">RndInt</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;RndInt -->
+<g id="edge147" class="edge">
+<title>Values&#45;&gt;RndInt</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M504.0197,-307.9526C417.0265,-314.3371 148.0808,-335.5918 64.4439,-360 64.3453,-360.0288 64.2467,-360.0578 64.148,-360.087"/>
+<polygon fill="none" stroke="#ffffff" points="63.1547,-356.725 54.9214,-363.393 65.516,-363.3147 63.1547,-356.725"/>
+</g>
+<!-- FetchSpec -->
+<g id="node117" class="node">
+<title>FetchSpec</title>
+<g id="a_node117"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="147.7588,-396 73.129,-396 73.129,-360 147.7588,-360 147.7588,-396"/>
+<text text-anchor="middle" x="110.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">FetchSpec</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;FetchSpec -->
+<g id="edge148" class="edge">
+<title>Values&#45;&gt;FetchSpec</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M503.7213,-307.803C442.5064,-312.245 291.2671,-325.753 157.6105,-360.018"/>
+<polygon fill="none" stroke="#ffffff" points="156.4019,-356.7161 147.6109,-362.6296 158.1709,-363.489 156.4019,-356.7161"/>
+</g>
+<!-- DataValues -->
+<g id="node118" class="node">
+<title>DataValues</title>
+<g id="a_node118"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="247.2418,-396 165.646,-396 165.646,-360 247.2418,-360 247.2418,-396"/>
+<text text-anchor="middle" x="206.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">DataValues</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;DataValues -->
+<g id="edge149" class="edge">
+<title>Values&#45;&gt;DataValues</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M503.683,-309.9362C455.2079,-317.1278 351.9431,-333.8605 256.9477,-359.7782"/>
+<polygon fill="none" stroke="#ffffff" points="255.8946,-356.4381 247.1921,-362.481 257.7636,-363.1839 255.8946,-356.4381"/>
+</g>
+<!-- Val -->
+<g id="node119" class="node">
+<title>Val</title>
+<g id="a_node119"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="307.9439,-396 264.9439,-396 264.9439,-360 307.9439,-360 307.9439,-396"/>
+<text text-anchor="middle" x="286.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Val</text>
+</a>
+</g>
+</g>
+<!-- Values&#45;&gt;Val -->
+<g id="edge150" class="edge">
+<title>Values&#45;&gt;Val</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M503.9868,-310.3955C462.5031,-317.5938 381.8566,-333.7769 317.4439,-360 317.3466,-360.0396 317.2493,-360.0795 317.1519,-360.1196"/>
+<polygon fill="none" stroke="#ffffff" points="315.6049,-356.9795 308.0739,-364.4317 318.6084,-363.3025 315.6049,-356.9795"/>
+</g>
+<!-- Transformer -->
+<g id="node120" class="node">
+<title>Transformer</title>
+<g id="a_node120"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4486.4033,-324 4400.4845,-324 4400.4845,-288 4486.4033,-288 4486.4033,-324"/>
+<text text-anchor="middle" x="4443.4439" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Transformer</text>
+</a>
+</g>
+</g>
+<!-- Transformer&#45;&gt;XL10n -->
+<g id="edge160" class="edge">
+<title>Transformer&#45;&gt;XL10n</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4400.2468,-321.7847C4397.2885,-322.6078 4394.335,-323.3582 4391.4439,-324 4243.7533,-356.7876 4196.1484,-319.2205 4046.3403,-360.3631"/>
+<polygon fill="none" stroke="#ffffff" points="4044.9971,-357.1053 4036.3227,-363.1885 4046.8973,-363.8424 4044.9971,-357.1053"/>
+</g>
+<!-- Transformer&#45;&gt;Arry -->
+<g id="edge153" class="edge">
+<title>Transformer&#45;&gt;Arry</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4400.3035,-322.0683C4397.3315,-322.8229 4394.3595,-323.4805 4391.4439,-324 4355.7865,-330.3529 1946.0028,-372.1387 1638.5856,-377.446"/>
+<polygon fill="none" stroke="#ffffff" points="1638.0983,-373.9537 1628.1602,-377.6259 1638.2191,-380.9527 1638.0983,-373.9537"/>
+</g>
+<!-- Transformer&#45;&gt;ValueType -->
+<g id="edge159" class="edge">
+<title>Transformer&#45;&gt;ValueType</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4400.4438,-321.3471C4397.4111,-322.2868 4394.3894,-323.1817 4391.4439,-324 4320.0828,-343.8238 4297.4354,-338.8511 4222.4865,-359.9279"/>
+<polygon fill="none" stroke="#ffffff" points="4221.2175,-356.651 4212.5749,-362.7792 4223.1528,-363.3781 4221.2175,-356.651"/>
+</g>
+<!-- Transformer&#45;&gt;C3X -->
+<g id="edge155" class="edge">
+<title>Transformer&#45;&gt;C3X</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4400.2964,-322.029C4397.3261,-322.7931 4394.3565,-323.4636 4391.4439,-324 4137.8079,-370.7135 3489.2128,-351.7199 3231.4439,-360 3037.6234,-366.226 2804.8295,-374.0856 2721.2449,-376.9197"/>
+<polygon fill="none" stroke="#ffffff" points="2721.0051,-373.4257 2711.1295,-377.2629 2721.2425,-380.4217 2721.0051,-373.4257"/>
+</g>
+<!-- Transformer&#45;&gt;Type -->
+<g id="edge152" class="edge">
+<title>Transformer&#45;&gt;Type</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4400.3075,-322.0906C4397.3345,-322.8399 4394.3612,-323.4902 4391.4439,-324 4083.2011,-377.8688 1888.2763,-352.8351 1575.4439,-360 1380.9557,-364.4545 1147.5377,-373.3557 1063.0041,-376.6947"/>
+<polygon fill="none" stroke="#ffffff" points="1062.6154,-373.2073 1052.762,-377.1008 1062.8929,-380.2018 1062.6154,-373.2073"/>
+</g>
+<!-- Transformer&#45;&gt;C3 -->
+<g id="edge161" class="edge">
+<title>Transformer&#45;&gt;C3</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4400.26,-321.8456C4397.2985,-322.654 4394.3408,-323.3844 4391.4439,-324 4211.4057,-362.2561 4151.7894,-304.4191 3972.9001,-360.3273"/>
+<polygon fill="none" stroke="#ffffff" points="3971.6383,-357.0562 3963.1818,-363.4388 3973.7728,-363.7229 3971.6383,-357.0562"/>
+</g>
+<!-- MetadataTransformer -->
+<g id="node121" class="node">
+<title>MetadataTransformer</title>
+<g id="a_node121"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4368.4875,-396 4230.4003,-396 4230.4003,-360 4368.4875,-360 4368.4875,-396"/>
+<text text-anchor="middle" x="4299.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">MetadataTransformer</text>
+</a>
+</g>
+</g>
+<!-- Transformer&#45;&gt;MetadataTransformer -->
+<g id="edge154" class="edge">
+<title>Transformer&#45;&gt;MetadataTransformer</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4407.1066,-324.1686C4388.1043,-333.6698 4364.6681,-345.3879 4344.5187,-355.4626"/>
+<polygon fill="none" stroke="#ffffff" points="4342.8989,-352.3593 4335.5199,-359.962 4346.0294,-358.6203 4342.8989,-352.3593"/>
+</g>
+<!-- TypeRef -->
+<g id="node122" class="node">
+<title>TypeRef</title>
+<g id="a_node122"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4451.9229,-396 4386.9649,-396 4386.9649,-360 4451.9229,-360 4451.9229,-396"/>
+<text text-anchor="middle" x="4419.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">TypeRef</text>
+</a>
+</g>
+</g>
+<!-- Transformer&#45;&gt;TypeRef -->
+<g id="edge156" class="edge">
+<title>Transformer&#45;&gt;TypeRef</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4437.3877,-324.1686C4434.7927,-331.9537 4431.7015,-341.2271 4428.8221,-349.8653"/>
+<polygon fill="none" stroke="#ffffff" points="4425.4236,-348.9931 4425.5817,-359.5867 4432.0644,-351.2067 4425.4236,-348.9931"/>
+</g>
+<!-- ArryMapp -->
+<g id="node123" class="node">
+<title>ArryMapp</title>
+<g id="a_node123"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4545.031,-396 4469.8568,-396 4469.8568,-360 4545.031,-360 4545.031,-396"/>
+<text text-anchor="middle" x="4507.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">ArryMapp</text>
+</a>
+</g>
+</g>
+<!-- Transformer&#45;&gt;ArryMapp -->
+<g id="edge157" class="edge">
+<title>Transformer&#45;&gt;ArryMapp</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4459.5938,-324.1686C4467.1156,-332.6306 4476.2004,-342.8511 4484.4243,-352.1029"/>
+<polygon fill="none" stroke="#ffffff" points="4481.8169,-354.4379 4491.0766,-359.5867 4487.0488,-349.7873 4481.8169,-354.4379"/>
+</g>
+<!-- Mapp -->
+<g id="node124" class="node">
+<title>Mapp</title>
+<g id="a_node124"><a xlink:title="Interface">
+<polygon fill="#b4a7e5" stroke="#edad56" points="4611.6043,-396 4563.2835,-396 4563.2835,-360 4611.6043,-360 4611.6043,-396"/>
+<text text-anchor="middle" x="4587.4439" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Mapp</text>
+</a>
+</g>
+</g>
+<!-- Transformer&#45;&gt;Mapp -->
+<g id="edge158" class="edge">
+<title>Transformer&#45;&gt;Mapp</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4481.678,-324.0595C4501.1639,-333.3858 4525.3828,-345.1626 4553.986,-359.8516"/>
+<polygon fill="none" stroke="#ffffff" points="4552.5116,-363.0292 4563.0033,-364.5042 4555.7214,-356.8085 4552.5116,-363.0292"/>
+</g>
+<!-- ByteObjValueIterator -->
+<g id="node125" class="node">
+<title>ByteObjValueIterator</title>
+<g id="a_node125"><a xlink:title="Class">
+<polygon fill="#add1b2" stroke="#edad56" points="4374.5015,-108 4236.3863,-108 4236.3863,-72 4374.5015,-72 4374.5015,-108"/>
+<text text-anchor="middle" x="4305.4439" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">ByteObjValueIterator</text>
+</a>
+</g>
+</g>
+<!-- ByteObjValueIterator&#45;&gt;AbstractDepthFirstObjValueIterator -->
+<g id="edge162" class="edge">
+<title>ByteObjValueIterator&#45;&gt;AbstractDepthFirstObjValueIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4313.7712,-108.1686C4317.4169,-116.1229 4321.7748,-125.631 4325.8066,-134.4277"/>
+<polygon fill="none" stroke="#ffffff" points="4322.6562,-135.9544 4330.0045,-143.5867 4329.0196,-133.0378 4322.6562,-135.9544"/>
+</g>
+<!-- ByteObjValueIterator&#45;&gt;DepthFirstParentIterator -->
+<g id="edge163" class="edge">
+<title>ByteObjValueIterator&#45;&gt;DepthFirstParentIterator</title>
+<path fill="none" stroke="#ffffff" stroke-dasharray="5,2" d="M4364.9431,-108.0757C4397.765,-118.0469 4438.6945,-130.4812 4472.9765,-140.896"/>
+<polygon fill="none" stroke="#ffffff" points="4472.3346,-144.3589 4482.9202,-143.9169 4474.3694,-137.6611 4472.3346,-144.3589"/>
+</g>
+</g>
+</svg>
